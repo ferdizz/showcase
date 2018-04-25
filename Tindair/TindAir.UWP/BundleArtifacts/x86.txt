@@ -1,0 +1,2 @@
+MainPackage=C:\Users\hawko\Projects\TindAir.UWP\bin\x86\Release\TindAir.UWP_1.0.2.0_x86.appx
+SymbolPackage=C:\Users\hawko\Projects\TindAir.UWP\AppPackages\TindAir.UWP_1.0.2.0_Test\TindAir.UWP_1.0.2.0_x86.appxsym

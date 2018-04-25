@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="TindAir.UWP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TindAir.UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="#1c9fe1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70" />
+                <ColumnDefinition />
+                <ColumnDefinition Width="70" />
+            </Grid.ColumnDefinitions>
+
+            <Image Source="Assets/logo_txt.png" Grid.Column="1" Margin="18" />
+            <TextBlock Grid.Column="0" FontFamily="Segoe UI Symbol" Visibility="Collapsed" FontSize="32" x:Name="backBtn" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Tapped="TextBlock_Tapped"></TextBlock>
+            <Image Source="Assets/logo_txt.svg" Grid.Column="1" Width="100" Height="60"></Image>
+            <TextBlock Grid.Column="2" FontFamily="Segoe UI Symbol" FontSize="32" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Tapped="MyPlaces_Tapped"></TextBlock>
+            
+            <Border BorderThickness="0,0,0,1" BorderBrush="Black" Grid.ColumnSpan="3" />
+        </Grid>
+        <Frame x:Name="mainFrame" Grid.Row="1" />
+    </Grid>
+</Page>

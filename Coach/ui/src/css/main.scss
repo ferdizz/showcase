@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    font-size: 16px;
+    overflow: hidden;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+    padding: 5vh 0;
+}
+
+.graph {
+    // background-color: aquamarine;
+    background-color: azure;
+    height: 40vh;
+}
+
+.info {
+    background-color: cadetblue;
+    height: 50vh;
+}
+
+.simulate {
+    padding: 50px;
+
+    h2 {
+      margin-bottom: 5px;
+    }
+
+    p {
+      margin-bottom: 5px;
+    }
+
+    input {
+        padding: 2px;
+        height: 30px;
+        border: 0;
+        border-radius: 15px;
+        outline: none;
+        font-size: 16px;
+    }
+
+    .sum, .dato {
+      margin-bottom: 10px;
+    }
+
+    button {
+        // background-color: #4CAF50; /* Green */
+        border: none;
+        border-radius: 15px;
+        // color: white;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+}

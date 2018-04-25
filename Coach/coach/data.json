@@ -1,0 +1,4712 @@
+[
+	{
+		"PaymentId": "1530000001",
+		"TransactionId": "1030000001",
+		"PaymentType": "2",
+		"PaymentFrom": "12081117651",
+		"PaymentTo": "14081111153",
+		"PaymentAmount": "260",
+		"Kid/Message": "7334846654812589",
+		"Date ": "2016-01-11,15:06"
+	},
+	{
+		"PaymentId": "1530000002",
+		"TransactionId": "1030000002",
+		"PaymentType": "2",
+		"PaymentFrom": "12081117463",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "1030",
+		"Kid/Message": "7449835971913816",
+		"Date ": "2016-01-12,15:46"
+	},
+	{
+		"PaymentId": "1530000003",
+		"TransactionId": "1030000003",
+		"PaymentType": "2",
+		"PaymentFrom": "12081114577",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "1360",
+		"Kid/Message": "6231681308979669",
+		"Date ": "2016-01-14,08:20"
+	},
+	{
+		"PaymentId": "1530000004",
+		"TransactionId": "1030000004",
+		"PaymentType": "2",
+		"PaymentFrom": "12081123566",
+		"PaymentTo": "14081111153",
+		"PaymentAmount": "830",
+		"Kid/Message": "7820111345919755",
+		"Date ": "2016-01-15,08:21"
+	},
+	{
+		"PaymentId": "1530000005",
+		"TransactionId": "1030000005",
+		"PaymentType": "2",
+		"PaymentFrom": "12081114456",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "1080",
+		"Kid/Message": "4466821273158830",
+		"Date ": "2016-01-20,10:38"
+	},
+	{
+		"PaymentId": "1530000006",
+		"TransactionId": "1030000006",
+		"PaymentType": "2",
+		"PaymentFrom": "12081115756",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "750",
+		"Kid/Message": "5330777511856534",
+		"Date ": "2016-01-15,12:32"
+	},
+	{
+		"PaymentId": "1530000007",
+		"TransactionId": "1030000007",
+		"PaymentType": "2",
+		"PaymentFrom": "12081111565",
+		"PaymentTo": "14081111153",
+		"PaymentAmount": "1180",
+		"Kid/Message": "4552773583601063",
+		"Date ": "2016-01-15,09:57"
+	},
+	{
+		"PaymentId": "1530000008",
+		"TransactionId": "1030000008",
+		"PaymentType": "2",
+		"PaymentFrom": "12081112931",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "1320",
+		"Kid/Message": "7015500440693229",
+		"Date ": "2016-01-11,08:45"
+	},
+	{
+		"PaymentId": "1530000009",
+		"TransactionId": "1030000009",
+		"PaymentType": "2",
+		"PaymentFrom": "12081115841",
+		"PaymentTo": "14081111153",
+		"PaymentAmount": "340",
+		"Kid/Message": "4749918313700690",
+		"Date ": "2016-01-11,11:39"
+	},
+	{
+		"PaymentId": "1530000010",
+		"TransactionId": "1030000010",
+		"PaymentType": "2",
+		"PaymentFrom": "12081118715",
+		"PaymentTo": "14081111153",
+		"PaymentAmount": "1210",
+		"Kid/Message": "7654985781203214",
+		"Date ": "2016-01-16,16:54"
+	},
+	{
+		"PaymentId": "1530000011",
+		"TransactionId": "1030000011",
+		"PaymentType": "2",
+		"PaymentFrom": "12081115773",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "1200",
+		"Kid/Message": "6767999224546944",
+		"Date ": "2016-01-15,11:14"
+	},
+	{
+		"PaymentId": "1530000012",
+		"TransactionId": "1030000012",
+		"PaymentType": "2",
+		"PaymentFrom": "12081123865",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "620",
+		"Kid/Message": "7575517945819409",
+		"Date ": "2016-01-14,14:15"
+	},
+	{
+		"PaymentId": "1530000013",
+		"TransactionId": "1030000013",
+		"PaymentType": "2",
+		"PaymentFrom": "12081113379",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "1150",
+		"Kid/Message": "6203072864693554",
+		"Date ": "2016-01-14,08:58"
+	},
+	{
+		"PaymentId": "1530000014",
+		"TransactionId": "1030000014",
+		"PaymentType": "2",
+		"PaymentFrom": "12081111616",
+		"PaymentTo": "14081111153",
+		"PaymentAmount": "590",
+		"Kid/Message": "4343380958561454",
+		"Date ": "2016-01-15,11:44"
+	},
+	{
+		"PaymentId": "1530000015",
+		"TransactionId": "1030000015",
+		"PaymentType": "2",
+		"PaymentFrom": "12081118542",
+		"PaymentTo": "14081111153",
+		"PaymentAmount": "1060",
+		"Kid/Message": "5040040333358196",
+		"Date ": "2016-01-11,12:55"
+	},
+	{
+		"PaymentId": "1530000016",
+		"TransactionId": "1030000016",
+		"PaymentType": "2",
+		"PaymentFrom": "12081113541",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "1430",
+		"Kid/Message": "7526318879755443",
+		"Date ": "2016-01-17,15:47"
+	},
+	{
+		"PaymentId": "1530000017",
+		"TransactionId": "1030000017",
+		"PaymentType": "2",
+		"PaymentFrom": "12081113553",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "180",
+		"Kid/Message": "6805896493920367",
+		"Date ": "2016-01-16,10:51"
+	},
+	{
+		"PaymentId": "1530000018",
+		"TransactionId": "1030000018",
+		"PaymentType": "2",
+		"PaymentFrom": "12081122478",
+		"PaymentTo": "14081111153",
+		"PaymentAmount": "220",
+		"Kid/Message": "7683529765120358",
+		"Date ": "2016-01-12,11:10"
+	},
+	{
+		"PaymentId": "1530000019",
+		"TransactionId": "1030000019",
+		"PaymentType": "2",
+		"PaymentFrom": "12081113897",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "1080",
+		"Kid/Message": "7078802592816454",
+		"Date ": "2016-01-15,16:17"
+	},
+	{
+		"PaymentId": "1530000020",
+		"TransactionId": "1030000020",
+		"PaymentType": "2",
+		"PaymentFrom": "12081117952",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "1030",
+		"Kid/Message": "5999322570941562",
+		"Date ": "2016-01-18,16:10"
+	},
+	{
+		"PaymentId": "1530000021",
+		"TransactionId": "1030000021",
+		"PaymentType": "2",
+		"PaymentFrom": "12081113457",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "340",
+		"Kid/Message": "7037011881178077",
+		"Date ": "2016-01-11,13:35"
+	},
+	{
+		"PaymentId": "1530000022",
+		"TransactionId": "1030000022",
+		"PaymentType": "2",
+		"PaymentFrom": "12081111436",
+		"PaymentTo": "14081111156",
+		"PaymentAmount": "1050",
+		"Kid/Message": "7937308421824222",
+		"Date ": "2016-01-15,10:50"
+	},
+	{
+		"PaymentId": "1530000023",
+		"TransactionId": "1030000023",
+		"PaymentType": "2",
+		"PaymentFrom": "12081113466",
+		"PaymentTo": "14081111157",
+		"PaymentAmount": "810",
+		"Kid/Message": "7250409652628770",
+		"Date ": "2016-01-12,14:23"
+	},
+	{
+		"PaymentId": "1530000024",
+		"TransactionId": "1030000024",
+		"PaymentType": "2",
+		"PaymentFrom": "12081112471",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "930",
+		"Kid/Message": "4750919126560375",
+		"Date ": "2016-01-18,15:58"
+	},
+	{
+		"PaymentId": "1530000025",
+		"TransactionId": "1030000025",
+		"PaymentType": "2",
+		"PaymentFrom": "12081122992",
+		"PaymentTo": "14081111153",
+		"PaymentAmount": "1370",
+		"Kid/Message": "6980321505943497",
+		"Date ": "2016-01-20,10:01"
+	},
+	{
+		"PaymentId": "1530000026",
+		"TransactionId": "1030000026",
+		"PaymentType": "2",
+		"PaymentFrom": "12081121823",
+		"PaymentTo": "14081111157",
+		"PaymentAmount": "1350",
+		"Kid/Message": "4418486913259002",
+		"Date ": "2016-01-12,14:22"
+	},
+	{
+		"PaymentId": "1530000027",
+		"TransactionId": "1030000027",
+		"PaymentType": "2",
+		"PaymentFrom": "12081121526",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "1230",
+		"Kid/Message": "7303837464257605",
+		"Date ": "2016-01-13,08:12"
+	},
+	{
+		"PaymentId": "1530000028",
+		"TransactionId": "1030000028",
+		"PaymentType": "2",
+		"PaymentFrom": "12081113354",
+		"PaymentTo": "14081111156",
+		"PaymentAmount": "1160",
+		"Kid/Message": "7021727300911014",
+		"Date ": "2016-01-14,10:15"
+	},
+	{
+		"PaymentId": "1530000029",
+		"TransactionId": "1030000029",
+		"PaymentType": "2",
+		"PaymentFrom": "12081123747",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "240",
+		"Kid/Message": "4157702329626548",
+		"Date ": "2016-01-12,10:56"
+	},
+	{
+		"PaymentId": "1530000030",
+		"TransactionId": "1030000030",
+		"PaymentType": "2",
+		"PaymentFrom": "12081124318",
+		"PaymentTo": "14081111157",
+		"PaymentAmount": "820",
+		"Kid/Message": "6141710429980172",
+		"Date ": "2016-01-16,13:47"
+	},
+	{
+		"PaymentId": "1530000031",
+		"TransactionId": "1030000031",
+		"PaymentType": "2",
+		"PaymentFrom": "12081113581",
+		"PaymentTo": "14081111157",
+		"PaymentAmount": "1130",
+		"Kid/Message": "5558191812283497",
+		"Date ": "2016-01-14,13:23"
+	},
+	{
+		"PaymentId": "1530000032",
+		"TransactionId": "1030000032",
+		"PaymentType": "2",
+		"PaymentFrom": "12081111151",
+		"PaymentTo": "14081111157",
+		"PaymentAmount": "1160",
+		"Kid/Message": "5158538946190491",
+		"Date ": "2016-01-12,11:45"
+	},
+	{
+		"PaymentId": "1530000033",
+		"TransactionId": "1030000033",
+		"PaymentType": "2",
+		"PaymentFrom": "12081119936",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "790",
+		"Kid/Message": "7262528162900721",
+		"Date ": "2016-01-19,14:43"
+	},
+	{
+		"PaymentId": "1530000034",
+		"TransactionId": "1030000034",
+		"PaymentType": "2",
+		"PaymentFrom": "12081121739",
+		"PaymentTo": "14081111156",
+		"PaymentAmount": "1150",
+		"Kid/Message": "4131288417114109",
+		"Date ": "2016-01-20,09:10"
+	},
+	{
+		"PaymentId": "1530000035",
+		"TransactionId": "1030000035",
+		"PaymentType": "2",
+		"PaymentFrom": "12081112712",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "880",
+		"Kid/Message": "5871174820653834",
+		"Date ": "2016-01-13,08:16"
+	},
+	{
+		"PaymentId": "1530000036",
+		"TransactionId": "1030000036",
+		"PaymentType": "2",
+		"PaymentFrom": "12081112947",
+		"PaymentTo": "14081111153",
+		"PaymentAmount": "1190",
+		"Kid/Message": "5002663573328435",
+		"Date ": "2016-01-13,10:53"
+	},
+	{
+		"PaymentId": "1530000037",
+		"TransactionId": "1030000037",
+		"PaymentType": "2",
+		"PaymentFrom": "12081113428",
+		"PaymentTo": "14081111156",
+		"PaymentAmount": "260",
+		"Kid/Message": "4048460349994758",
+		"Date ": "2016-01-17,15:16"
+	},
+	{
+		"PaymentId": "1530000038",
+		"TransactionId": "1030000038",
+		"PaymentType": "2",
+		"PaymentFrom": "12081115656",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "550",
+		"Kid/Message": "7117182686780794",
+		"Date ": "2016-01-16,08:34"
+	},
+	{
+		"PaymentId": "1530000039",
+		"TransactionId": "1030000039",
+		"PaymentType": "2",
+		"PaymentFrom": "12081124178",
+		"PaymentTo": "14081111156",
+		"PaymentAmount": "1300",
+		"Kid/Message": "5248315746705539",
+		"Date ": "2016-01-16,11:59"
+	},
+	{
+		"PaymentId": "1530000040",
+		"TransactionId": "1030000040",
+		"PaymentType": "2",
+		"PaymentFrom": "12081117922",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "1430",
+		"Kid/Message": "4770550831528866",
+		"Date ": "2016-01-12,10:19"
+	},
+	{
+		"PaymentId": "1530000041",
+		"TransactionId": "1030000041",
+		"PaymentType": "2",
+		"PaymentFrom": "12081118474",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "200",
+		"Kid/Message": "5419404028417394",
+		"Date ": "2016-01-16,08:49"
+	},
+	{
+		"PaymentId": "1530000042",
+		"TransactionId": "1030000042",
+		"PaymentType": "2",
+		"PaymentFrom": "12081121294",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "360",
+		"Kid/Message": "7921915746591004",
+		"Date ": "2016-01-20,14:08"
+	},
+	{
+		"PaymentId": "1530000043",
+		"TransactionId": "1030000043",
+		"PaymentType": "2",
+		"PaymentFrom": "12081112846",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "610",
+		"Kid/Message": "7486063060509995",
+		"Date ": "2016-01-20,16:04"
+	},
+	{
+		"PaymentId": "1530000044",
+		"TransactionId": "1030000044",
+		"PaymentType": "2",
+		"PaymentFrom": "12081121149",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "630",
+		"Kid/Message": "6248831984192372",
+		"Date ": "2016-01-16,16:30"
+	},
+	{
+		"PaymentId": "1530000045",
+		"TransactionId": "1030000045",
+		"PaymentType": "2",
+		"PaymentFrom": "12081122876",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "640",
+		"Kid/Message": "7418632019281858",
+		"Date ": "2016-01-17,10:53"
+	},
+	{
+		"PaymentId": "1530000046",
+		"TransactionId": "1030000046",
+		"PaymentType": "2",
+		"PaymentFrom": "12081111648",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "1480",
+		"Kid/Message": "4877539752508450",
+		"Date ": "2016-01-15,15:29"
+	},
+	{
+		"PaymentId": "1530000047",
+		"TransactionId": "1030000047",
+		"PaymentType": "2",
+		"PaymentFrom": "12081112487",
+		"PaymentTo": "14081111157",
+		"PaymentAmount": "230",
+		"Kid/Message": "6934173427882533",
+		"Date ": "2016-01-13,13:13"
+	},
+	{
+		"PaymentId": "1530000048",
+		"TransactionId": "1030000048",
+		"PaymentType": "2",
+		"PaymentFrom": "12081113674",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "710",
+		"Kid/Message": "5710241342988541",
+		"Date ": "2016-01-16,14:21"
+	},
+	{
+		"PaymentId": "1530000049",
+		"TransactionId": "1030000049",
+		"PaymentType": "2",
+		"PaymentFrom": "12081123444",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "1190",
+		"Kid/Message": "5611706444449264",
+		"Date ": "2016-01-20,10:06"
+	},
+	{
+		"PaymentId": "1530000050",
+		"TransactionId": "1030000050",
+		"PaymentType": "2",
+		"PaymentFrom": "12081112749",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "1410",
+		"Kid/Message": "4762077638832073",
+		"Date ": "2016-01-12,12:34"
+	},
+	{
+		"PaymentId": "1530000051",
+		"TransactionId": "1030000051",
+		"PaymentType": "2",
+		"PaymentFrom": "12081123292",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "1450",
+		"Kid/Message": "6965268720880076",
+		"Date ": "2016-01-16,13:07"
+	},
+	{
+		"PaymentId": "1530000052",
+		"TransactionId": "1030000052",
+		"PaymentType": "2",
+		"PaymentFrom": "12081116884",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "1040",
+		"Kid/Message": "7823429558391530",
+		"Date ": "2016-01-17,11:52"
+	},
+	{
+		"PaymentId": "1530000053",
+		"TransactionId": "1030000053",
+		"PaymentType": "2",
+		"PaymentFrom": "12081123184",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "960",
+		"Kid/Message": "6913157866969802",
+		"Date ": "2016-01-15,11:14"
+	},
+	{
+		"PaymentId": "1530000054",
+		"TransactionId": "1030000054",
+		"PaymentType": "2",
+		"PaymentFrom": "12081118551",
+		"PaymentTo": "14081111156",
+		"PaymentAmount": "1170",
+		"Kid/Message": "6600737430849606",
+		"Date ": "2016-01-19,16:34"
+	},
+	{
+		"PaymentId": "1530000055",
+		"TransactionId": "1030000055",
+		"PaymentType": "2",
+		"PaymentFrom": "12081118846",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "590",
+		"Kid/Message": "7933414053928469",
+		"Date ": "2016-01-12,16:07"
+	},
+	{
+		"PaymentId": "1530000056",
+		"TransactionId": "1030000056",
+		"PaymentType": "2",
+		"PaymentFrom": "12081118571",
+		"PaymentTo": "14081111157",
+		"PaymentAmount": "1080",
+		"Kid/Message": "7189786351233637",
+		"Date ": "2016-01-16,14:18"
+	},
+	{
+		"PaymentId": "1530000057",
+		"TransactionId": "1030000057",
+		"PaymentType": "2",
+		"PaymentFrom": "12081118676",
+		"PaymentTo": "14081111155",
+		"PaymentAmount": "1440",
+		"Kid/Message": "6073261951181507",
+		"Date ": "2016-01-18,12:27"
+	},
+	{
+		"PaymentId": "1530000058",
+		"TransactionId": "1030000058",
+		"PaymentType": "2",
+		"PaymentFrom": "12081118657",
+		"PaymentTo": "14081111154",
+		"PaymentAmount": "1440",
+		"Kid/Message": "6476110804586888",
+		"Date ": "2016-01-12,16:29"
+	},
+	{
+		"PaymentId": "1500000001",
+		"TransactionId": "1000000001",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000013",
+		"PaymentTo": "12081111111",
+		"PaymentAmount": "28000",
+		"Kid/Message": "Salary from SpareBank 1",
+		"Date ": "2016-01-28,16:56"
+	},
+	{
+		"PaymentId": "1500000002",
+		"TransactionId": "1000000002",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000010",
+		"PaymentTo": "12081111112",
+		"PaymentAmount": "55000",
+		"Kid/Message": "Salary from Norsk Hydro",
+		"Date ": "2016-01-24,11:37"
+	},
+	{
+		"PaymentId": "1500000003",
+		"TransactionId": "1000000003",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000018",
+		"PaymentTo": "12081111113",
+		"PaymentAmount": "59000",
+		"Kid/Message": "Salary from Vinmonopolet",
+		"Date ": "2016-01-27,15:39"
+	},
+	{
+		"PaymentId": "1500000004",
+		"TransactionId": "1000000004",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000018",
+		"PaymentTo": "12081111114",
+		"PaymentAmount": "33000",
+		"Kid/Message": "Salary from Vinmonopolet",
+		"Date ": "2016-01-25,10:52"
+	},
+	{
+		"PaymentId": "1500000005",
+		"TransactionId": "1000000005",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000010",
+		"PaymentTo": "12081111115",
+		"PaymentAmount": "37000",
+		"Kid/Message": "Salary from Norsk Hydro",
+		"Date ": "2016-01-27,16:47"
+	},
+	{
+		"PaymentId": "1500000006",
+		"TransactionId": "1000000006",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000014",
+		"PaymentTo": "12081111116",
+		"PaymentAmount": "28000",
+		"Kid/Message": "Salary from Statkraft",
+		"Date ": "2016-01-28,08:41"
+	},
+	{
+		"PaymentId": "1500000007",
+		"TransactionId": "1000000007",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111117",
+		"PaymentAmount": "32000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-27,14:37"
+	},
+	{
+		"PaymentId": "1500000008",
+		"TransactionId": "1000000008",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000008",
+		"PaymentTo": "12081111118",
+		"PaymentAmount": "39000",
+		"Kid/Message": "Salary from Hafslund",
+		"Date ": "2016-01-28,10:30"
+	},
+	{
+		"PaymentId": "1500000009",
+		"TransactionId": "1000000009",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000013",
+		"PaymentTo": "12081111119",
+		"PaymentAmount": "35000",
+		"Kid/Message": "Salary from SpareBank 1",
+		"Date ": "2016-01-25,15:49"
+	},
+	{
+		"PaymentId": "1500000010",
+		"TransactionId": "1000000010",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111122",
+		"PaymentAmount": "53000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-25,08:52"
+	},
+	{
+		"PaymentId": "1500000011",
+		"TransactionId": "1000000011",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111124",
+		"PaymentAmount": "30000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-28,09:08"
+	},
+	{
+		"PaymentId": "1500000012",
+		"TransactionId": "1000000012",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000005",
+		"PaymentTo": "12081111125",
+		"PaymentAmount": "41000",
+		"Kid/Message": "Salary from DNV GL",
+		"Date ": "2016-01-24,15:18"
+	},
+	{
+		"PaymentId": "1500000013",
+		"TransactionId": "1000000013",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000016",
+		"PaymentTo": "12081111126",
+		"PaymentAmount": "33000",
+		"Kid/Message": "Salary from Telenor",
+		"Date ": "2016-01-28,09:06"
+	},
+	{
+		"PaymentId": "1500000014",
+		"TransactionId": "1000000014",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000013",
+		"PaymentTo": "12081111127",
+		"PaymentAmount": "49000",
+		"Kid/Message": "Salary from SpareBank 1",
+		"Date ": "2016-01-24,13:17"
+	},
+	{
+		"PaymentId": "1500000015",
+		"TransactionId": "1000000015",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000001",
+		"PaymentTo": "12081111128",
+		"PaymentAmount": "54000",
+		"Kid/Message": "Salary from DNB ASA ",
+		"Date ": "2016-01-28,16:47"
+	},
+	{
+		"PaymentId": "1500000016",
+		"TransactionId": "1000000016",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000003",
+		"PaymentTo": "12081111129",
+		"PaymentAmount": "37000",
+		"Kid/Message": "Salary from Aker Solutions",
+		"Date ": "2016-01-28,08:22"
+	},
+	{
+		"PaymentId": "1500000017",
+		"TransactionId": "1000000017",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000003",
+		"PaymentTo": "12081111131",
+		"PaymentAmount": "33000",
+		"Kid/Message": "Salary from Aker Solutions",
+		"Date ": "2016-01-26,14:53"
+	},
+	{
+		"PaymentId": "1500000018",
+		"TransactionId": "1000000018",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000007",
+		"PaymentTo": "12081111132",
+		"PaymentAmount": "26000",
+		"Kid/Message": "Salary from Ferd",
+		"Date ": "2016-01-28,09:00"
+	},
+	{
+		"PaymentId": "1500000019",
+		"TransactionId": "1000000019",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111133",
+		"PaymentAmount": "35000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-28,16:37"
+	},
+	{
+		"PaymentId": "1500000020",
+		"TransactionId": "1000000020",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000018",
+		"PaymentTo": "12081111134",
+		"PaymentAmount": "52000",
+		"Kid/Message": "Salary from Vinmonopolet",
+		"Date ": "2016-01-28,14:33"
+	},
+	{
+		"PaymentId": "1500000021",
+		"TransactionId": "1000000021",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111135",
+		"PaymentAmount": "57000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-28,10:38"
+	},
+	{
+		"PaymentId": "1500000022",
+		"TransactionId": "1000000022",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111136",
+		"PaymentAmount": "45000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-28,08:01"
+	},
+	{
+		"PaymentId": "1500000023",
+		"TransactionId": "1000000023",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000003",
+		"PaymentTo": "12081111137",
+		"PaymentAmount": "32000",
+		"Kid/Message": "Salary from Aker Solutions",
+		"Date ": "2016-01-28,15:41"
+	},
+	{
+		"PaymentId": "1500000024",
+		"TransactionId": "1000000024",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000004",
+		"PaymentTo": "12081111138",
+		"PaymentAmount": "50000",
+		"Kid/Message": "Salary from Coop Norge",
+		"Date ": "2016-01-25,08:30"
+	},
+	{
+		"PaymentId": "1500000025",
+		"TransactionId": "1000000025",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000011",
+		"PaymentTo": "12081111139",
+		"PaymentAmount": "32000",
+		"Kid/Message": "Salary from Nortura",
+		"Date ": "2016-01-26,09:34"
+	},
+	{
+		"PaymentId": "1500000026",
+		"TransactionId": "1000000026",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000017",
+		"PaymentTo": "12081111141",
+		"PaymentAmount": "46000",
+		"Kid/Message": "Salary from Tine",
+		"Date ": "2016-01-28,12:06"
+	},
+	{
+		"PaymentId": "1500000027",
+		"TransactionId": "1000000027",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000001",
+		"PaymentTo": "12081111142",
+		"PaymentAmount": "26000",
+		"Kid/Message": "Salary from DNB ASA ",
+		"Date ": "2016-01-24,15:02"
+	},
+	{
+		"PaymentId": "1500000028",
+		"TransactionId": "1000000028",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111143",
+		"PaymentAmount": "60000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-26,08:15"
+	},
+	{
+		"PaymentId": "1500000029",
+		"TransactionId": "1000000029",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111144",
+		"PaymentAmount": "49000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-27,14:59"
+	},
+	{
+		"PaymentId": "1500000030",
+		"TransactionId": "1000000030",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000012",
+		"PaymentTo": "12081111145",
+		"PaymentAmount": "31000",
+		"Kid/Message": "Salary from Posten Norge",
+		"Date ": "2016-01-27,09:59"
+	},
+	{
+		"PaymentId": "1500000031",
+		"TransactionId": "1000000031",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000001",
+		"PaymentTo": "12081111146",
+		"PaymentAmount": "46000",
+		"Kid/Message": "Salary from DNB ASA ",
+		"Date ": "2016-01-27,12:35"
+	},
+	{
+		"PaymentId": "1500000032",
+		"TransactionId": "1000000032",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000002",
+		"PaymentTo": "12081111147",
+		"PaymentAmount": "49000",
+		"Kid/Message": "Salary from Aker ASA",
+		"Date ": "2016-01-27,11:18"
+	},
+	{
+		"PaymentId": "1500000033",
+		"TransactionId": "1000000033",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000010",
+		"PaymentTo": "12081111148",
+		"PaymentAmount": "56000",
+		"Kid/Message": "Salary from Norsk Hydro",
+		"Date ": "2016-01-24,12:47"
+	},
+	{
+		"PaymentId": "1500000034",
+		"TransactionId": "1000000034",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000002",
+		"PaymentTo": "12081111149",
+		"PaymentAmount": "32000",
+		"Kid/Message": "Salary from Aker ASA",
+		"Date ": "2016-01-26,09:34"
+	},
+	{
+		"PaymentId": "1500000035",
+		"TransactionId": "1000000035",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000007",
+		"PaymentTo": "12081111151",
+		"PaymentAmount": "34000",
+		"Kid/Message": "Salary from Ferd",
+		"Date ": "2016-01-25,09:57"
+	},
+	{
+		"PaymentId": "1500000036",
+		"TransactionId": "1000000036",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000011",
+		"PaymentTo": "12081111152",
+		"PaymentAmount": "57000",
+		"Kid/Message": "Salary from Nortura",
+		"Date ": "2016-01-24,16:33"
+	},
+	{
+		"PaymentId": "1500000037",
+		"TransactionId": "1000000037",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000007",
+		"PaymentTo": "12081111153",
+		"PaymentAmount": "55000",
+		"Kid/Message": "Salary from Ferd",
+		"Date ": "2016-01-26,13:41"
+	},
+	{
+		"PaymentId": "1500000038",
+		"TransactionId": "1000000038",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000011",
+		"PaymentTo": "12081111154",
+		"PaymentAmount": "42000",
+		"Kid/Message": "Salary from Nortura",
+		"Date ": "2016-01-24,09:13"
+	},
+	{
+		"PaymentId": "1500000039",
+		"TransactionId": "1000000039",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000003",
+		"PaymentTo": "12081111155",
+		"PaymentAmount": "45000",
+		"Kid/Message": "Salary from Aker Solutions",
+		"Date ": "2016-01-25,13:21"
+	},
+	{
+		"PaymentId": "1500000040",
+		"TransactionId": "1000000040",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000009",
+		"PaymentTo": "12081111156",
+		"PaymentAmount": "54000",
+		"Kid/Message": "Salary from Kongsberg Gruppen",
+		"Date ": "2016-01-25,14:06"
+	},
+	{
+		"PaymentId": "1500000041",
+		"TransactionId": "1000000041",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111157",
+		"PaymentAmount": "42000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-25,11:49"
+	},
+	{
+		"PaymentId": "1500000042",
+		"TransactionId": "1000000042",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000005",
+		"PaymentTo": "12081111158",
+		"PaymentAmount": "48000",
+		"Kid/Message": "Salary from DNV GL",
+		"Date ": "2016-01-28,15:56"
+	},
+	{
+		"PaymentId": "1500000043",
+		"TransactionId": "1000000043",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000011",
+		"PaymentTo": "12081111159",
+		"PaymentAmount": "53000",
+		"Kid/Message": "Salary from Nortura",
+		"Date ": "2016-01-24,12:49"
+	},
+	{
+		"PaymentId": "1500000044",
+		"TransactionId": "1000000044",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000010",
+		"PaymentTo": "12081111161",
+		"PaymentAmount": "47000",
+		"Kid/Message": "Salary from Norsk Hydro",
+		"Date ": "2016-01-28,15:13"
+	},
+	{
+		"PaymentId": "1500000045",
+		"TransactionId": "1000000045",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000001",
+		"PaymentTo": "12081111162",
+		"PaymentAmount": "43000",
+		"Kid/Message": "Salary from DNB ASA ",
+		"Date ": "2016-01-25,11:05"
+	},
+	{
+		"PaymentId": "1500000046",
+		"TransactionId": "1000000046",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000018",
+		"PaymentTo": "12081111163",
+		"PaymentAmount": "34000",
+		"Kid/Message": "Salary from Vinmonopolet",
+		"Date ": "2016-01-26,13:52"
+	},
+	{
+		"PaymentId": "1500000047",
+		"TransactionId": "1000000047",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000010",
+		"PaymentTo": "12081111164",
+		"PaymentAmount": "52000",
+		"Kid/Message": "Salary from Norsk Hydro",
+		"Date ": "2016-01-28,08:00"
+	},
+	{
+		"PaymentId": "1500000048",
+		"TransactionId": "1000000048",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000012",
+		"PaymentTo": "12081111165",
+		"PaymentAmount": "51000",
+		"Kid/Message": "Salary from Posten Norge",
+		"Date ": "2016-01-24,09:08"
+	},
+	{
+		"PaymentId": "1500000049",
+		"TransactionId": "1000000049",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000012",
+		"PaymentTo": "12081111166",
+		"PaymentAmount": "45000",
+		"Kid/Message": "Salary from Posten Norge",
+		"Date ": "2016-01-24,15:19"
+	},
+	{
+		"PaymentId": "1500000050",
+		"TransactionId": "1000000050",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000005",
+		"PaymentTo": "12081111167",
+		"PaymentAmount": "42000",
+		"Kid/Message": "Salary from DNV GL",
+		"Date ": "2016-01-28,10:51"
+	},
+	{
+		"PaymentId": "1500000051",
+		"TransactionId": "1000000051",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000007",
+		"PaymentTo": "12081111168",
+		"PaymentAmount": "54000",
+		"Kid/Message": "Salary from Ferd",
+		"Date ": "2016-01-27,10:39"
+	},
+	{
+		"PaymentId": "1500000052",
+		"TransactionId": "1000000052",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111169",
+		"PaymentAmount": "27000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-27,09:41"
+	},
+	{
+		"PaymentId": "1500000053",
+		"TransactionId": "1000000053",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000008",
+		"PaymentTo": "12081111171",
+		"PaymentAmount": "39000",
+		"Kid/Message": "Salary from Hafslund",
+		"Date ": "2016-01-24,10:37"
+	},
+	{
+		"PaymentId": "1500000054",
+		"TransactionId": "1000000054",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000010",
+		"PaymentTo": "12081111172",
+		"PaymentAmount": "58000",
+		"Kid/Message": "Salary from Norsk Hydro",
+		"Date ": "2016-01-28,16:29"
+	},
+	{
+		"PaymentId": "1500000055",
+		"TransactionId": "1000000055",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000005",
+		"PaymentTo": "12081111173",
+		"PaymentAmount": "53000",
+		"Kid/Message": "Salary from DNV GL",
+		"Date ": "2016-01-27,16:31"
+	},
+	{
+		"PaymentId": "1500000056",
+		"TransactionId": "1000000056",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000012",
+		"PaymentTo": "12081111174",
+		"PaymentAmount": "44000",
+		"Kid/Message": "Salary from Posten Norge",
+		"Date ": "2016-01-27,12:35"
+	},
+	{
+		"PaymentId": "1500000057",
+		"TransactionId": "1000000057",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000003",
+		"PaymentTo": "12081111175",
+		"PaymentAmount": "43000",
+		"Kid/Message": "Salary from Aker Solutions",
+		"Date ": "2016-01-26,10:13"
+	},
+	{
+		"PaymentId": "1500000058",
+		"TransactionId": "1000000058",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000002",
+		"PaymentTo": "12081111176",
+		"PaymentAmount": "56000",
+		"Kid/Message": "Salary from Aker ASA",
+		"Date ": "2016-01-24,09:11"
+	},
+	{
+		"PaymentId": "1500000059",
+		"TransactionId": "1000000059",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000011",
+		"PaymentTo": "12081111177",
+		"PaymentAmount": "28000",
+		"Kid/Message": "Salary from Nortura",
+		"Date ": "2016-01-28,13:30"
+	},
+	{
+		"PaymentId": "1500000060",
+		"TransactionId": "1000000060",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000012",
+		"PaymentTo": "12081111178",
+		"PaymentAmount": "44000",
+		"Kid/Message": "Salary from Posten Norge",
+		"Date ": "2016-01-25,09:12"
+	},
+	{
+		"PaymentId": "1500000061",
+		"TransactionId": "1000000061",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000003",
+		"PaymentTo": "12081111179",
+		"PaymentAmount": "56000",
+		"Kid/Message": "Salary from Aker Solutions",
+		"Date ": "2016-01-25,10:11"
+	},
+	{
+		"PaymentId": "1500000062",
+		"TransactionId": "1000000062",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000012",
+		"PaymentTo": "12081111181",
+		"PaymentAmount": "35000",
+		"Kid/Message": "Salary from Posten Norge",
+		"Date ": "2016-01-28,09:25"
+	},
+	{
+		"PaymentId": "1500000063",
+		"TransactionId": "1000000063",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000008",
+		"PaymentTo": "12081111183",
+		"PaymentAmount": "56000",
+		"Kid/Message": "Salary from Hafslund",
+		"Date ": "2016-01-27,13:25"
+	},
+	{
+		"PaymentId": "1500000064",
+		"TransactionId": "1000000064",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111184",
+		"PaymentAmount": "31000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-26,16:34"
+	},
+	{
+		"PaymentId": "1500000065",
+		"TransactionId": "1000000065",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000004",
+		"PaymentTo": "12081111185",
+		"PaymentAmount": "44000",
+		"Kid/Message": "Salary from Coop Norge",
+		"Date ": "2016-01-28,14:43"
+	},
+	{
+		"PaymentId": "1500000066",
+		"TransactionId": "1000000066",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000017",
+		"PaymentTo": "12081111186",
+		"PaymentAmount": "52000",
+		"Kid/Message": "Salary from Tine",
+		"Date ": "2016-01-28,08:55"
+	},
+	{
+		"PaymentId": "1500000067",
+		"TransactionId": "1000000067",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000010",
+		"PaymentTo": "12081111187",
+		"PaymentAmount": "39000",
+		"Kid/Message": "Salary from Norsk Hydro",
+		"Date ": "2016-01-27,11:35"
+	},
+	{
+		"PaymentId": "1500000068",
+		"TransactionId": "1000000068",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000009",
+		"PaymentTo": "12081111188",
+		"PaymentAmount": "59000",
+		"Kid/Message": "Salary from Kongsberg Gruppen",
+		"Date ": "2016-01-25,12:49"
+	},
+	{
+		"PaymentId": "1500000069",
+		"TransactionId": "1000000069",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000014",
+		"PaymentTo": "12081111189",
+		"PaymentAmount": "29000",
+		"Kid/Message": "Salary from Statkraft",
+		"Date ": "2016-01-26,15:29"
+	},
+	{
+		"PaymentId": "1500000070",
+		"TransactionId": "1000000070",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000013",
+		"PaymentTo": "12081111191",
+		"PaymentAmount": "48000",
+		"Kid/Message": "Salary from SpareBank 1",
+		"Date ": "2016-01-28,11:35"
+	},
+	{
+		"PaymentId": "1500000071",
+		"TransactionId": "1000000071",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000014",
+		"PaymentTo": "12081111192",
+		"PaymentAmount": "38000",
+		"Kid/Message": "Salary from Statkraft",
+		"Date ": "2016-01-27,11:07"
+	},
+	{
+		"PaymentId": "1500000072",
+		"TransactionId": "1000000072",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000012",
+		"PaymentTo": "12081111193",
+		"PaymentAmount": "28000",
+		"Kid/Message": "Salary from Posten Norge",
+		"Date ": "2016-01-27,14:42"
+	},
+	{
+		"PaymentId": "1500000073",
+		"TransactionId": "1000000073",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000014",
+		"PaymentTo": "12081111194",
+		"PaymentAmount": "34000",
+		"Kid/Message": "Salary from Statkraft",
+		"Date ": "2016-01-27,12:09"
+	},
+	{
+		"PaymentId": "1500000074",
+		"TransactionId": "1000000074",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000001",
+		"PaymentTo": "12081111195",
+		"PaymentAmount": "42000",
+		"Kid/Message": "Salary from DNB ASA ",
+		"Date ": "2016-01-28,12:57"
+	},
+	{
+		"PaymentId": "1500000075",
+		"TransactionId": "1000000075",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000014",
+		"PaymentTo": "12081111196",
+		"PaymentAmount": "32000",
+		"Kid/Message": "Salary from Statkraft",
+		"Date ": "2016-01-26,10:23"
+	},
+	{
+		"PaymentId": "1500000076",
+		"TransactionId": "1000000076",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000011",
+		"PaymentTo": "12081111197",
+		"PaymentAmount": "36000",
+		"Kid/Message": "Salary from Nortura",
+		"Date ": "2016-01-24,09:09"
+	},
+	{
+		"PaymentId": "1500000077",
+		"TransactionId": "1000000077",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000004",
+		"PaymentTo": "12081111198",
+		"PaymentAmount": "44000",
+		"Kid/Message": "Salary from Coop Norge",
+		"Date ": "2016-01-26,16:23"
+	},
+	{
+		"PaymentId": "1500000078",
+		"TransactionId": "1000000078",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000001",
+		"PaymentTo": "12081111199",
+		"PaymentAmount": "39000",
+		"Kid/Message": "Salary from DNB ASA ",
+		"Date ": "2016-01-26,08:36"
+	},
+	{
+		"PaymentId": "1500000079",
+		"TransactionId": "1000000079",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000016",
+		"PaymentTo": "12081111211",
+		"PaymentAmount": "49000",
+		"Kid/Message": "Salary from Telenor",
+		"Date ": "2016-01-27,11:10"
+	},
+	{
+		"PaymentId": "1500000080",
+		"TransactionId": "1000000080",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000018",
+		"PaymentTo": "12081111212",
+		"PaymentAmount": "45000",
+		"Kid/Message": "Salary from Vinmonopolet",
+		"Date ": "2016-01-27,16:26"
+	},
+	{
+		"PaymentId": "1500000081",
+		"TransactionId": "1000000081",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000013",
+		"PaymentTo": "12081111213",
+		"PaymentAmount": "48000",
+		"Kid/Message": "Salary from SpareBank 1",
+		"Date ": "2016-01-27,12:38"
+	},
+	{
+		"PaymentId": "1500000082",
+		"TransactionId": "1000000082",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111214",
+		"PaymentAmount": "33000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-25,15:30"
+	},
+	{
+		"PaymentId": "1500000083",
+		"TransactionId": "1000000083",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000007",
+		"PaymentTo": "12081111215",
+		"PaymentAmount": "37000",
+		"Kid/Message": "Salary from Ferd",
+		"Date ": "2016-01-25,10:40"
+	},
+	{
+		"PaymentId": "1500000084",
+		"TransactionId": "1000000084",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111216",
+		"PaymentAmount": "40000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-24,15:59"
+	},
+	{
+		"PaymentId": "1500000085",
+		"TransactionId": "1000000085",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000018",
+		"PaymentTo": "12081111217",
+		"PaymentAmount": "60000",
+		"Kid/Message": "Salary from Vinmonopolet",
+		"Date ": "2016-01-27,15:42"
+	},
+	{
+		"PaymentId": "1500000086",
+		"TransactionId": "1000000086",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000015",
+		"PaymentTo": "12081111218",
+		"PaymentAmount": "47000",
+		"Kid/Message": "Salary from Statoil",
+		"Date ": "2016-01-25,12:16"
+	},
+	{
+		"PaymentId": "1500000087",
+		"TransactionId": "1000000087",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000004",
+		"PaymentTo": "12081111219",
+		"PaymentAmount": "42000",
+		"Kid/Message": "Salary from Coop Norge",
+		"Date ": "2016-01-25,16:06"
+	},
+	{
+		"PaymentId": "1500000088",
+		"TransactionId": "1000000088",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000013",
+		"PaymentTo": "12081111221",
+		"PaymentAmount": "60000",
+		"Kid/Message": "Salary from SpareBank 1",
+		"Date ": "2016-01-26,14:03"
+	},
+	{
+		"PaymentId": "1500000089",
+		"TransactionId": "1000000089",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000015",
+		"PaymentTo": "12081111222",
+		"PaymentAmount": "29000",
+		"Kid/Message": "Salary from Statoil",
+		"Date ": "2016-01-24,10:36"
+	},
+	{
+		"PaymentId": "1500000090",
+		"TransactionId": "1000000090",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000009",
+		"PaymentTo": "12081111223",
+		"PaymentAmount": "56000",
+		"Kid/Message": "Salary from Kongsberg Gruppen",
+		"Date ": "2016-01-27,15:53"
+	},
+	{
+		"PaymentId": "1500000091",
+		"TransactionId": "1000000091",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000010",
+		"PaymentTo": "12081111224",
+		"PaymentAmount": "26000",
+		"Kid/Message": "Salary from Norsk Hydro",
+		"Date ": "2016-01-27,16:03"
+	},
+	{
+		"PaymentId": "1500000092",
+		"TransactionId": "1000000092",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000015",
+		"PaymentTo": "12081111225",
+		"PaymentAmount": "49000",
+		"Kid/Message": "Salary from Statoil",
+		"Date ": "2016-01-27,13:41"
+	},
+	{
+		"PaymentId": "1500000093",
+		"TransactionId": "1000000093",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000017",
+		"PaymentTo": "12081111226",
+		"PaymentAmount": "52000",
+		"Kid/Message": "Salary from Tine",
+		"Date ": "2016-01-26,11:34"
+	},
+	{
+		"PaymentId": "1500000094",
+		"TransactionId": "1000000094",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000009",
+		"PaymentTo": "12081111227",
+		"PaymentAmount": "42000",
+		"Kid/Message": "Salary from Kongsberg Gruppen",
+		"Date ": "2016-01-27,16:12"
+	},
+	{
+		"PaymentId": "1500000095",
+		"TransactionId": "1000000095",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000001",
+		"PaymentTo": "12081111228",
+		"PaymentAmount": "30000",
+		"Kid/Message": "Salary from DNB ASA ",
+		"Date ": "2016-01-26,12:20"
+	},
+	{
+		"PaymentId": "1500000096",
+		"TransactionId": "1000000096",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000011",
+		"PaymentTo": "12081111229",
+		"PaymentAmount": "40000",
+		"Kid/Message": "Salary from Nortura",
+		"Date ": "2016-01-26,13:22"
+	},
+	{
+		"PaymentId": "1500000097",
+		"TransactionId": "1000000097",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000009",
+		"PaymentTo": "12081111231",
+		"PaymentAmount": "59000",
+		"Kid/Message": "Salary from Kongsberg Gruppen",
+		"Date ": "2016-01-25,13:47"
+	},
+	{
+		"PaymentId": "1500000098",
+		"TransactionId": "1000000098",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000008",
+		"PaymentTo": "12081111232",
+		"PaymentAmount": "45000",
+		"Kid/Message": "Salary from Hafslund",
+		"Date ": "2016-01-25,09:54"
+	},
+	{
+		"PaymentId": "1500000099",
+		"TransactionId": "1000000099",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000019",
+		"PaymentTo": "12081111233",
+		"PaymentAmount": "30000",
+		"Kid/Message": "Salary from Yara International",
+		"Date ": "2016-01-24,13:11"
+	},
+	{
+		"PaymentId": "1500000100",
+		"TransactionId": "1000000100",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000006",
+		"PaymentTo": "12081111234",
+		"PaymentAmount": "30000",
+		"Kid/Message": "Salary from Elkjøp",
+		"Date ": "2016-01-28,14:31"
+	},
+	{
+		"PaymentId": "1500000101",
+		"TransactionId": "1000000101",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000003",
+		"PaymentTo": "12081111235",
+		"PaymentAmount": "41000",
+		"Kid/Message": "Salary from Aker Solutions",
+		"Date ": "2016-01-24,08:48"
+	},
+	{
+		"PaymentId": "1500000102",
+		"TransactionId": "1000000102",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000011",
+		"PaymentTo": "12081111236",
+		"PaymentAmount": "48000",
+		"Kid/Message": "Salary from Nortura",
+		"Date ": "2016-01-24,11:25"
+	},
+	{
+		"PaymentId": "1500000103",
+		"TransactionId": "1000000103",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000008",
+		"PaymentTo": "12081111237",
+		"PaymentAmount": "42000",
+		"Kid/Message": "Salary from Hafslund",
+		"Date ": "2016-01-26,12:32"
+	},
+	{
+		"PaymentId": "1500000104",
+		"TransactionId": "1000000104",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000001",
+		"PaymentTo": "12081111238",
+		"PaymentAmount": "26000",
+		"Kid/Message": "Salary from DNB ASA ",
+		"Date ": "2016-01-24,15:20"
+	},
+	{
+		"PaymentId": "1500000105",
+		"TransactionId": "1000000105",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000011",
+		"PaymentTo": "12081111241",
+		"PaymentAmount": "29000",
+		"Kid/Message": "Salary from Nortura",
+		"Date ": "2016-01-24,14:53"
+	},
+	{
+		"PaymentId": "1500000106",
+		"TransactionId": "1000000106",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000019",
+		"PaymentTo": "12081111243",
+		"PaymentAmount": "60000",
+		"Kid/Message": "Salary from Yara International",
+		"Date ": "2016-01-26,09:05"
+	},
+	{
+		"PaymentId": "1500000107",
+		"TransactionId": "1000000107",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000018",
+		"PaymentTo": "12081111244",
+		"PaymentAmount": "41000",
+		"Kid/Message": "Salary from Vinmonopolet",
+		"Date ": "2016-01-28,10:37"
+	},
+	{
+		"PaymentId": "1500000108",
+		"TransactionId": "1000000108",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000015",
+		"PaymentTo": "12081111245",
+		"PaymentAmount": "28000",
+		"Kid/Message": "Salary from Statoil",
+		"Date ": "2016-01-24,09:06"
+	},
+	{
+		"PaymentId": "1500000109",
+		"TransactionId": "1000000109",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000018",
+		"PaymentTo": "12081111246",
+		"PaymentAmount": "33000",
+		"Kid/Message": "Salary from Vinmonopolet",
+		"Date ": "2016-01-25,14:00"
+	},
+	{
+		"PaymentId": "1500000110",
+		"TransactionId": "1000000110",
+		"PaymentType": "1",
+		"PaymentFrom": "50000000018",
+		"PaymentTo": "12081111247",
+		"PaymentAmount": "30000",
+		"Kid/Message": "Salary from Vinmonopolet",
+		"Date ": "2016-01-24,08:42"
+	},
+	{
+		"PaymentId": "1520000001",
+		"TransactionId": "1020000001",
+		"PaymentType": "1",
+		"PaymentFrom": "12081119314",
+		"PaymentTo": "12081121994",
+		"PaymentAmount": "8100",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-03,10:25"
+	},
+	{
+		"PaymentId": "1520000002",
+		"TransactionId": "1020000002",
+		"PaymentType": "1",
+		"PaymentFrom": "12081119344",
+		"PaymentTo": "12081122536",
+		"PaymentAmount": "10600",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-02,11:36"
+	},
+	{
+		"PaymentId": "1520000003",
+		"TransactionId": "1020000003",
+		"PaymentType": "1",
+		"PaymentFrom": "12081119433",
+		"PaymentTo": "12081115425",
+		"PaymentAmount": "8000",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,12:09"
+	},
+	{
+		"PaymentId": "1520000004",
+		"TransactionId": "1020000004",
+		"PaymentType": "1",
+		"PaymentFrom": "12081119463",
+		"PaymentTo": "12081124553",
+		"PaymentAmount": "11800",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-05,12:34"
+	},
+	{
+		"PaymentId": "1520000005",
+		"TransactionId": "1020000005",
+		"PaymentType": "1",
+		"PaymentFrom": "12081119552",
+		"PaymentTo": "12081116288",
+		"PaymentAmount": "9500",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-03,09:33"
+	},
+	{
+		"PaymentId": "1520000006",
+		"TransactionId": "1020000006",
+		"PaymentType": "1",
+		"PaymentFrom": "12081119582",
+		"PaymentTo": "12081114115",
+		"PaymentAmount": "13400",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-02,12:02"
+	},
+	{
+		"PaymentId": "1520000007",
+		"TransactionId": "1020000007",
+		"PaymentType": "1",
+		"PaymentFrom": "12081119671",
+		"PaymentTo": "12081123892",
+		"PaymentAmount": "8200",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,11:14"
+	},
+	{
+		"PaymentId": "1520000008",
+		"TransactionId": "1020000008",
+		"PaymentType": "1",
+		"PaymentFrom": "12081119711",
+		"PaymentTo": "12081114767",
+		"PaymentAmount": "10200",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-01,13:15"
+	},
+	{
+		"PaymentId": "1520000009",
+		"TransactionId": "1020000009",
+		"PaymentType": "1",
+		"PaymentFrom": "12081119789",
+		"PaymentTo": "12081117975",
+		"PaymentAmount": "7600",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-03,10:23"
+	},
+	{
+		"PaymentId": "1520000010",
+		"TransactionId": "1020000010",
+		"PaymentType": "1",
+		"PaymentFrom": "12081119829",
+		"PaymentTo": "12081111585",
+		"PaymentAmount": "10000",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-01,11:32"
+	},
+	{
+		"PaymentId": "1520000011",
+		"TransactionId": "1020000011",
+		"PaymentType": "1",
+		"PaymentFrom": "12081119918",
+		"PaymentTo": "12081124219",
+		"PaymentAmount": "8900",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-01,12:02"
+	},
+	{
+		"PaymentId": "1520000012",
+		"TransactionId": "1020000012",
+		"PaymentType": "1",
+		"PaymentFrom": "12081119948",
+		"PaymentTo": "12081111227",
+		"PaymentAmount": "12200",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-02,12:18"
+	},
+	{
+		"PaymentId": "1520000013",
+		"TransactionId": "1020000013",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121137",
+		"PaymentTo": "12081113773",
+		"PaymentAmount": "8700",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-03,13:55"
+	},
+	{
+		"PaymentId": "1520000014",
+		"TransactionId": "1020000014",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121167",
+		"PaymentTo": "12081114318",
+		"PaymentAmount": "10500",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-08,13:05"
+	},
+	{
+		"PaymentId": "1520000015",
+		"TransactionId": "1020000015",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121256",
+		"PaymentTo": "12081112721",
+		"PaymentAmount": "9100",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-05,12:29"
+	},
+	{
+		"PaymentId": "1520000016",
+		"TransactionId": "1020000016",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121286",
+		"PaymentTo": "12081115948",
+		"PaymentAmount": "12500",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-06,10:04"
+	},
+	{
+		"PaymentId": "1520000017",
+		"TransactionId": "1020000017",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121375",
+		"PaymentTo": "12081121842",
+		"PaymentAmount": "13900",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-08,08:19"
+	},
+	{
+		"PaymentId": "1520000018",
+		"TransactionId": "1020000018",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121415",
+		"PaymentTo": "12081113997",
+		"PaymentAmount": "11900",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,08:28"
+	},
+	{
+		"PaymentId": "1520000019",
+		"TransactionId": "1020000019",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121494",
+		"PaymentTo": "12081111193",
+		"PaymentAmount": "11000",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-08,10:33"
+	},
+	{
+		"PaymentId": "1520000020",
+		"TransactionId": "1020000020",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121534",
+		"PaymentTo": "12081121575",
+		"PaymentAmount": "8400",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,11:10"
+	},
+	{
+		"PaymentId": "1520000021",
+		"TransactionId": "1020000021",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121623",
+		"PaymentTo": "12081113933",
+		"PaymentAmount": "11600",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-05,11:47"
+	},
+	{
+		"PaymentId": "1520000022",
+		"TransactionId": "1020000022",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121653",
+		"PaymentTo": "12081122983",
+		"PaymentAmount": "7900",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-09,09:07"
+	},
+	{
+		"PaymentId": "1520000023",
+		"TransactionId": "1020000023",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121742",
+		"PaymentTo": "12081121672",
+		"PaymentAmount": "7500",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-10,09:38"
+	},
+	{
+		"PaymentId": "1520000024",
+		"TransactionId": "1020000024",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121772",
+		"PaymentTo": "12081114539",
+		"PaymentAmount": "9700",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-08,08:53"
+	},
+	{
+		"PaymentId": "1520000025",
+		"TransactionId": "1020000025",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121861",
+		"PaymentTo": "12081113149",
+		"PaymentAmount": "9300",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-09,10:15"
+	},
+	{
+		"PaymentId": "1520000026",
+		"TransactionId": "1020000026",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121891",
+		"PaymentTo": "12081118147",
+		"PaymentAmount": "9200",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,13:20"
+	},
+	{
+		"PaymentId": "1520000027",
+		"TransactionId": "1020000027",
+		"PaymentType": "1",
+		"PaymentFrom": "12081121979",
+		"PaymentTo": "12081116214",
+		"PaymentAmount": "11500",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-10,10:19"
+	},
+	{
+		"PaymentId": "1520000028",
+		"TransactionId": "1020000028",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122119",
+		"PaymentTo": "12081122974",
+		"PaymentAmount": "11800",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-02,13:30"
+	},
+	{
+		"PaymentId": "1520000029",
+		"TransactionId": "1020000029",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122198",
+		"PaymentTo": "12081112174",
+		"PaymentAmount": "9200",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,08:06"
+	},
+	{
+		"PaymentId": "1520000030",
+		"TransactionId": "1020000030",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122238",
+		"PaymentTo": "12081124298",
+		"PaymentAmount": "10500",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-01,08:12"
+	},
+	{
+		"PaymentId": "1520000031",
+		"TransactionId": "1020000031",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122327",
+		"PaymentTo": "12081124561",
+		"PaymentAmount": "7300",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-02,13:10"
+	},
+	{
+		"PaymentId": "1520000032",
+		"TransactionId": "1020000032",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122357",
+		"PaymentTo": "12081116862",
+		"PaymentAmount": "12300",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-09,10:27"
+	},
+	{
+		"PaymentId": "1520000033",
+		"TransactionId": "1020000033",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122446",
+		"PaymentTo": "12081117366",
+		"PaymentAmount": "11800",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-05,08:19"
+	},
+	{
+		"PaymentId": "1520000034",
+		"TransactionId": "1020000034",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122476",
+		"PaymentTo": "12081121694",
+		"PaymentAmount": "12300",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-10,12:34"
+	},
+	{
+		"PaymentId": "1520000035",
+		"TransactionId": "1020000035",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122565",
+		"PaymentTo": "12081117513",
+		"PaymentAmount": "11800",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-03,10:56"
+	},
+	{
+		"PaymentId": "1520000036",
+		"TransactionId": "1020000036",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122568",
+		"PaymentTo": "12081119388",
+		"PaymentAmount": "7400",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-08,11:03"
+	},
+	{
+		"PaymentId": "1520000037",
+		"TransactionId": "1020000037",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122595",
+		"PaymentTo": "12081113528",
+		"PaymentAmount": "11200",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-02,11:04"
+	},
+	{
+		"PaymentId": "1520000038",
+		"TransactionId": "1020000038",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122684",
+		"PaymentTo": "12081118441",
+		"PaymentAmount": "11300",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-05,10:42"
+	},
+	{
+		"PaymentId": "1520000039",
+		"TransactionId": "1020000039",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122724",
+		"PaymentTo": "12081113715",
+		"PaymentAmount": "7700",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-08,12:07"
+	},
+	{
+		"PaymentId": "1520000040",
+		"TransactionId": "1020000040",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122813",
+		"PaymentTo": "12081117132",
+		"PaymentAmount": "13700",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-03,12:43"
+	},
+	{
+		"PaymentId": "1520000041",
+		"TransactionId": "1020000041",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122843",
+		"PaymentTo": "12081112658",
+		"PaymentAmount": "12500",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-09,12:03"
+	},
+	{
+		"PaymentId": "1520000042",
+		"TransactionId": "1020000042",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122932",
+		"PaymentTo": "12081121573",
+		"PaymentAmount": "9000",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,08:47"
+	},
+	{
+		"PaymentId": "1520000043",
+		"TransactionId": "1020000043",
+		"PaymentType": "1",
+		"PaymentFrom": "12081122962",
+		"PaymentTo": "12081111683",
+		"PaymentAmount": "9000",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-02,09:46"
+	},
+	{
+		"PaymentId": "1520000044",
+		"TransactionId": "1020000044",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123151",
+		"PaymentTo": "12081121188",
+		"PaymentAmount": "9700",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-09,13:22"
+	},
+	{
+		"PaymentId": "1520000045",
+		"TransactionId": "1020000045",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123181",
+		"PaymentTo": "12081124118",
+		"PaymentAmount": "7900",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,09:24"
+	},
+	{
+		"PaymentId": "1520000046",
+		"TransactionId": "1020000046",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123269",
+		"PaymentTo": "12081122284",
+		"PaymentAmount": "12500",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,12:48"
+	},
+	{
+		"PaymentId": "1520000047",
+		"TransactionId": "1020000047",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123299",
+		"PaymentTo": "12081121299",
+		"PaymentAmount": "10800",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-07,11:20"
+	},
+	{
+		"PaymentId": "1520000048",
+		"TransactionId": "1020000048",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123388",
+		"PaymentTo": "12081112877",
+		"PaymentAmount": "8700",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-08,09:29"
+	},
+	{
+		"PaymentId": "1520000049",
+		"TransactionId": "1020000049",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123428",
+		"PaymentTo": "12081122753",
+		"PaymentAmount": "11200",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,13:10"
+	},
+	{
+		"PaymentId": "1520000050",
+		"TransactionId": "1020000050",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123517",
+		"PaymentTo": "12081114159",
+		"PaymentAmount": "9700",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-07,09:10"
+	},
+	{
+		"PaymentId": "1520000051",
+		"TransactionId": "1020000051",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123547",
+		"PaymentTo": "12081114484",
+		"PaymentAmount": "8200",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,12:31"
+	},
+	{
+		"PaymentId": "1520000052",
+		"TransactionId": "1020000052",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123636",
+		"PaymentTo": "12081112216",
+		"PaymentAmount": "8000",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,11:48"
+	},
+	{
+		"PaymentId": "1520000053",
+		"TransactionId": "1020000053",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123666",
+		"PaymentTo": "12081114591",
+		"PaymentAmount": "7900",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-07,11:49"
+	},
+	{
+		"PaymentId": "1520000054",
+		"TransactionId": "1020000054",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123785",
+		"PaymentTo": "12081117616",
+		"PaymentAmount": "8700",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-05,09:37"
+	},
+	{
+		"PaymentId": "1520000055",
+		"TransactionId": "1020000055",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123874",
+		"PaymentTo": "12081114557",
+		"PaymentAmount": "10700",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-08,08:01"
+	},
+	{
+		"PaymentId": "1520000056",
+		"TransactionId": "1020000056",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123914",
+		"PaymentTo": "12081124592",
+		"PaymentAmount": "10600",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,11:46"
+	},
+	{
+		"PaymentId": "1520000057",
+		"TransactionId": "1020000057",
+		"PaymentType": "1",
+		"PaymentFrom": "12081123993",
+		"PaymentTo": "12081115855",
+		"PaymentAmount": "13200",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-08,08:47"
+	},
+	{
+		"PaymentId": "1520000058",
+		"TransactionId": "1020000058",
+		"PaymentType": "1",
+		"PaymentFrom": "12081124133",
+		"PaymentTo": "12081117133",
+		"PaymentAmount": "11300",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-10,08:45"
+	},
+	{
+		"PaymentId": "1520000059",
+		"TransactionId": "1020000059",
+		"PaymentType": "1",
+		"PaymentFrom": "12081124222",
+		"PaymentTo": "12081118539",
+		"PaymentAmount": "10800",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-05,09:58"
+	},
+	{
+		"PaymentId": "1520000060",
+		"TransactionId": "1020000060",
+		"PaymentType": "1",
+		"PaymentFrom": "12081124252",
+		"PaymentTo": "12081113531",
+		"PaymentAmount": "12000",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-08,11:45"
+	},
+	{
+		"PaymentId": "1520000061",
+		"TransactionId": "1020000061",
+		"PaymentType": "1",
+		"PaymentFrom": "12081124341",
+		"PaymentTo": "12081122881",
+		"PaymentAmount": "12400",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-06,10:17"
+	},
+	{
+		"PaymentId": "1520000062",
+		"TransactionId": "1020000062",
+		"PaymentType": "1",
+		"PaymentFrom": "12081124371",
+		"PaymentTo": "12081111715",
+		"PaymentAmount": "13400",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-09,08:15"
+	},
+	{
+		"PaymentId": "1520000063",
+		"TransactionId": "1020000063",
+		"PaymentType": "1",
+		"PaymentFrom": "12081124459",
+		"PaymentTo": "12081118416",
+		"PaymentAmount": "8400",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-02,09:57"
+	},
+	{
+		"PaymentId": "1520000064",
+		"TransactionId": "1020000064",
+		"PaymentType": "1",
+		"PaymentFrom": "12081124489",
+		"PaymentTo": "12081117729",
+		"PaymentAmount": "11500",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-08,10:26"
+	},
+	{
+		"PaymentId": "1520000065",
+		"TransactionId": "1020000065",
+		"PaymentType": "1",
+		"PaymentFrom": "12081124578",
+		"PaymentTo": "12081121835",
+		"PaymentAmount": "12800",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-04,13:15"
+	},
+	{
+		"PaymentId": "1520000066",
+		"TransactionId": "1020000066",
+		"PaymentType": "1",
+		"PaymentFrom": "12081124618",
+		"PaymentTo": "12081114235",
+		"PaymentAmount": "12100",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-07,12:13"
+	},
+	{
+		"PaymentId": "1520000067",
+		"TransactionId": "1020000067",
+		"PaymentType": "1",
+		"PaymentFrom": "12081124697",
+		"PaymentTo": "12081122139",
+		"PaymentAmount": "9500",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-02,10:11"
+	},
+	{
+		"PaymentId": "1520000068",
+		"TransactionId": "1020000068",
+		"PaymentType": "1",
+		"PaymentFrom": "12081124737",
+		"PaymentTo": "12081114523",
+		"PaymentAmount": "8800",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-01,10:59"
+	},
+	{
+		"PaymentId": "1520000069",
+		"TransactionId": "1020000069",
+		"PaymentType": "1",
+		"PaymentFrom": "12081124826",
+		"PaymentTo": "12081116458",
+		"PaymentAmount": "7900",
+		"Kid/Message": "Rent Payment",
+		"Date ": "2016-01-08,11:42"
+	},
+	{
+		"PaymentId": "1560000001",
+		"TransactionId": "1060000001",
+		"PaymentType": "5",
+		"PaymentFrom": "12081112743",
+		"PaymentTo": "",
+		"PaymentAmount": "80",
+		"Kid/Message": "Varekjøp Einar Andreas Skjellerudsveen Oppland Dato 16.3 Kl 7.17",
+		"Date ": "2016-03-16,07:17"
+	},
+	{
+		"PaymentId": "1560000002",
+		"TransactionId": "1060000002",
+		"PaymentType": "5",
+		"PaymentFrom": "12081112387",
+		"PaymentTo": "",
+		"PaymentAmount": "70",
+		"Kid/Message": "Varekjøp EXPERT NORGE AS Akershus Dato 2.8 Kl 16.52",
+		"Date ": "2016-08-02,16:52"
+	},
+	{
+		"PaymentId": "1560000003",
+		"TransactionId": "1060000003",
+		"PaymentType": "5",
+		"PaymentFrom": "12081117697",
+		"PaymentTo": "",
+		"PaymentAmount": "36",
+		"Kid/Message": "Varekjøp HALSEN IDRETTSFORENING Vestfold Dato 5.4 Kl 11.27",
+		"Date ": "2016-04-05,11:27"
+	},
+	{
+		"PaymentId": "1560000004",
+		"TransactionId": "1060000004",
+		"PaymentType": "5",
+		"PaymentFrom": "12081111254",
+		"PaymentTo": "",
+		"PaymentAmount": "57",
+		"Kid/Message": "Varekjøp HOLTSMARK GOLF EIENDOMSSELSKAP AS Buskerud Dato 26.11 Kl 12.37",
+		"Date ": "2016-11-26,12:37"
+	},
+	{
+		"PaymentId": "1560000005",
+		"TransactionId": "1060000005",
+		"PaymentType": "5",
+		"PaymentFrom": "12081117841",
+		"PaymentTo": "",
+		"PaymentAmount": "81",
+		"Kid/Message": "Varekjøp Velferdskomiteen Delta Oslo Dato 6.4 Kl 12.33",
+		"Date ": "2016-04-06,12:33"
+	},
+	{
+		"PaymentId": "1560000006",
+		"TransactionId": "1060000006",
+		"PaymentType": "5",
+		"PaymentFrom": "12081118883",
+		"PaymentTo": "",
+		"PaymentAmount": "90",
+		"Kid/Message": "Varekjøp ANONYME NARKOMANE OMRÅDE ØST SERVICE KOMITE Oslo Dato 23.5 Kl 9.13",
+		"Date ": "2016-05-23,09:13"
+	},
+	{
+		"PaymentId": "1560000007",
+		"TransactionId": "1060000007",
+		"PaymentType": "5",
+		"PaymentFrom": "12081117658",
+		"PaymentTo": "",
+		"PaymentAmount": "79",
+		"Kid/Message": "Varekjøp Hk - 72 Sande Vestfold Dato 13.3 Kl 10.17",
+		"Date ": "2016-03-13,10:17"
+	},
+	{
+		"PaymentId": "1560000008",
+		"TransactionId": "1060000008",
+		"PaymentType": "5",
+		"PaymentFrom": "12081117935",
+		"PaymentTo": "",
+		"PaymentAmount": "41",
+		"Kid/Message": "Varekjøp SLEVIK INNEBANDYKLUBB Østfold Dato 20.5 Kl 10.25",
+		"Date ": "2016-05-20,10:25"
+	},
+	{
+		"PaymentId": "1560000009",
+		"TransactionId": "1060000009",
+		"PaymentType": "5",
+		"PaymentFrom": "12081114337",
+		"PaymentTo": "",
+		"PaymentAmount": "60",
+		"Kid/Message": "Varekjøp STEINKJER FOTBALLKLUBB Nord-Trøndelag Dato 11.9 Kl 14.44",
+		"Date ": "2016-09-11,14:44"
+	},
+	{
+		"PaymentId": "1560000010",
+		"TransactionId": "1060000010",
+		"PaymentType": "5",
+		"PaymentFrom": "12081115963",
+		"PaymentTo": "",
+		"PaymentAmount": "20",
+		"Kid/Message": "Varekjøp NÆRBØ IDRETTSLAG Rogaland Dato 5.3 Kl 19.23",
+		"Date ": "2016-03-05,19:23"
+	},
+	{
+		"PaymentId": "1560000011",
+		"TransactionId": "1060000011",
+		"PaymentType": "5",
+		"PaymentFrom": "12081111969",
+		"PaymentTo": "",
+		"PaymentAmount": "61",
+		"Kid/Message": "Varekjøp Extra-Nett As Rogaland Dato 24.12 Kl 16.1",
+		"Date ": "2016-12-24,16:01"
+	},
+	{
+		"PaymentId": "1560000012",
+		"TransactionId": "1060000012",
+		"PaymentType": "5",
+		"PaymentFrom": "12081111438",
+		"PaymentTo": "",
+		"PaymentAmount": "59",
+		"Kid/Message": "Varekjøp HEDRUM ORIENTERINGSLAG Vestfold Dato 7.3 Kl 13.41",
+		"Date ": "2016-03-07,13:41"
+	},
+	{
+		"PaymentId": "1560000013",
+		"TransactionId": "1060000013",
+		"PaymentType": "5",
+		"PaymentFrom": "12081114811",
+		"PaymentTo": "",
+		"PaymentAmount": "69",
+		"Kid/Message": "Varekjøp RANHEIM IDRETTSLAG Sør-Trøndelag Dato 15.6 Kl 14.47",
+		"Date ": "2016-06-15,14:47"
+	},
+	{
+		"PaymentId": "1560000014",
+		"TransactionId": "1060000014",
+		"PaymentType": "5",
+		"PaymentFrom": "12081119875",
+		"PaymentTo": "",
+		"PaymentAmount": "68",
+		"Kid/Message": "Varekjøp FRIDALEN SOKN Hordaland Dato 5.7 Kl 15.42",
+		"Date ": "2016-07-05,15:42"
+	},
+	{
+		"PaymentId": "1560000015",
+		"TransactionId": "1060000015",
+		"PaymentType": "5",
+		"PaymentFrom": "12081118476",
+		"PaymentTo": "",
+		"PaymentAmount": "89",
+		"Kid/Message": "Varekjøp Thor Ole Vold Nord-Trøndelag Dato 7.6 Kl 19.10",
+		"Date ": "2016-06-07,19:10"
+	},
+	{
+		"PaymentId": "1560000016",
+		"TransactionId": "1060000016",
+		"PaymentType": "5",
+		"PaymentFrom": "12081121617",
+		"PaymentTo": "",
+		"PaymentAmount": "35",
+		"Kid/Message": "Varekjøp TRANBY SKOLEKORPS Buskerud Dato 13.1 Kl 7.23",
+		"Date ": "2016-01-13,07:23"
+	},
+	{
+		"PaymentId": "1560000017",
+		"TransactionId": "1060000017",
+		"PaymentType": "5",
+		"PaymentFrom": "12081112526",
+		"PaymentTo": "",
+		"PaymentAmount": "86",
+		"Kid/Message": "Varekjøp Kjøkkelvik IL - Fotballgruppen Hordaland Dato 23.7 Kl 11.52",
+		"Date ": "2016-07-23,11:52"
+	},
+	{
+		"PaymentId": "1560000018",
+		"TransactionId": "1060000018",
+		"PaymentType": "5",
+		"PaymentFrom": "12081115877",
+		"PaymentTo": "",
+		"PaymentAmount": "46",
+		"Kid/Message": "Varekjøp RANHEIM IDRETTSLAG Sør-Trøndelag Dato 27.7 Kl 11.0",
+		"Date ": "2016-07-27,11:00"
+	},
+	{
+		"PaymentId": "1560000019",
+		"TransactionId": "1060000019",
+		"PaymentType": "5",
+		"PaymentFrom": "12081113898",
+		"PaymentTo": "",
+		"PaymentAmount": "21",
+		"Kid/Message": "Varekjøp QUIZMASTER LIV BOYE OKKENHAUG Nordland Dato 20.6 Kl 18.57",
+		"Date ": "2016-06-20,18:57"
+	},
+	{
+		"PaymentId": "1560000020",
+		"TransactionId": "1060000020",
+		"PaymentType": "5",
+		"PaymentFrom": "12081113987",
+		"PaymentTo": "",
+		"PaymentAmount": "57",
+		"Kid/Message": "Varekjøp MELINA IS MOHAMMAD HASSANI Akershus Dato 1.12 Kl 10.6",
+		"Date ": "2016-12-01,10:06"
+	},
+	{
+		"PaymentId": "1560000021",
+		"TransactionId": "1060000021",
+		"PaymentType": "5",
+		"PaymentFrom": "12081113373",
+		"PaymentTo": "",
+		"PaymentAmount": "42",
+		"Kid/Message": "Varekjøp ROMOLSLIA SPORTSKLUBB Sør-Trøndelag Dato 3.10 Kl 22.45",
+		"Date ": "2016-10-03,22:45"
+	},
+	{
+		"PaymentId": "1560000022",
+		"TransactionId": "1060000022",
+		"PaymentType": "5",
+		"PaymentFrom": "12081123149",
+		"PaymentTo": "",
+		"PaymentAmount": "33",
+		"Kid/Message": "Varekjøp Nordstrand sokn Oslo Dato 1.2 Kl 14.27",
+		"Date ": "2016-02-01,14:27"
+	},
+	{
+		"PaymentId": "1560000023",
+		"TransactionId": "1060000023",
+		"PaymentType": "5",
+		"PaymentFrom": "12081122186",
+		"PaymentTo": "",
+		"PaymentAmount": "64",
+		"Kid/Message": "Varekjøp Thai Food Takeaway Hans Solbakken Oslo Dato 25.10 Kl 18.9",
+		"Date ": "2016-10-25,18:09"
+	},
+	{
+		"PaymentId": "1560000024",
+		"TransactionId": "1060000024",
+		"PaymentType": "5",
+		"PaymentFrom": "12081117216",
+		"PaymentTo": "",
+		"PaymentAmount": "20",
+		"Kid/Message": "Varekjøp SANDVIKAREVYEN Akershus Dato 27.10 Kl 12.50",
+		"Date ": "2016-10-27,12:50"
+	},
+	{
+		"PaymentId": "1560000025",
+		"TransactionId": "1060000025",
+		"PaymentType": "5",
+		"PaymentFrom": "12081111417",
+		"PaymentTo": "",
+		"PaymentAmount": "77",
+		"Kid/Message": "Varekjøp GLASSVERKET IDRETTSFORENING Buskerud Dato 25.9 Kl 21.34",
+		"Date ": "2016-09-25,21:34"
+	},
+	{
+		"PaymentId": "1560000026",
+		"TransactionId": "1060000026",
+		"PaymentType": "5",
+		"PaymentFrom": "12081113214",
+		"PaymentTo": "",
+		"PaymentAmount": "43",
+		"Kid/Message": "Varekjøp OSLOSTUDENTENES IDRETTSKLUBB Oslo Dato 12.6 Kl 15.27",
+		"Date ": "2016-06-12,15:27"
+	},
+	{
+		"PaymentId": "1560000027",
+		"TransactionId": "1060000027",
+		"PaymentType": "5",
+		"PaymentFrom": "12081112471",
+		"PaymentTo": "",
+		"PaymentAmount": "85",
+		"Kid/Message": "Varekjøp Stortorvet Blomster As Akershus Dato 28.2 Kl 23.34",
+		"Date ": "2016-02-28,23:34"
+	},
+	{
+		"PaymentId": "1560000028",
+		"TransactionId": "1060000028",
+		"PaymentType": "5",
+		"PaymentFrom": "12081123437",
+		"PaymentTo": "",
+		"PaymentAmount": "30",
+		"Kid/Message": "Varekjøp NORDBERG SOKN Oslo Dato 8.6 Kl 16.47",
+		"Date ": "2016-06-08,16:47"
+	},
+	{
+		"PaymentId": "1560000029",
+		"TransactionId": "1060000029",
+		"PaymentType": "5",
+		"PaymentFrom": "12081121575",
+		"PaymentTo": "",
+		"PaymentAmount": "67",
+		"Kid/Message": "Varekjøp Holmen Hockey Akershus Dato 20.9 Kl 8.36",
+		"Date ": "2016-09-20,08:36"
+	},
+	{
+		"PaymentId": "1560000030",
+		"TransactionId": "1060000030",
+		"PaymentType": "5",
+		"PaymentFrom": "12081117832",
+		"PaymentTo": "",
+		"PaymentAmount": "33",
+		"Kid/Message": "Varekjøp Thor Ole Vold Nord-Trøndelag Dato 28.7 Kl 21.56",
+		"Date ": "2016-07-28,21:56"
+	},
+	{
+		"PaymentId": "1560000031",
+		"TransactionId": "1060000031",
+		"PaymentType": "5",
+		"PaymentFrom": "12081122517",
+		"PaymentTo": "",
+		"PaymentAmount": "80",
+		"Kid/Message": "Varekjøp TUNET INNEBANDYKLUBB Oslo Dato 12.11 Kl 12.8",
+		"Date ": "2016-11-12,12:08"
+	},
+	{
+		"PaymentId": "1560000032",
+		"TransactionId": "1060000032",
+		"PaymentType": "5",
+		"PaymentFrom": "12081114975",
+		"PaymentTo": "",
+		"PaymentAmount": "61",
+		"Kid/Message": "Varekjøp RYKKINN OG GULLHAUG SKOLEKORPS Akershus Dato 7.9 Kl 9.38",
+		"Date ": "2016-09-07,09:38"
+	},
+	{
+		"PaymentId": "1560000033",
+		"TransactionId": "1060000033",
+		"PaymentType": "5",
+		"PaymentFrom": "12081122968",
+		"PaymentTo": "",
+		"PaymentAmount": "25",
+		"Kid/Message": "Varekjøp HVAM IDRETTSLAG Akershus Dato 22.10 Kl 22.15",
+		"Date ": "2016-10-22,22:15"
+	},
+	{
+		"PaymentId": "1560000034",
+		"TransactionId": "1060000034",
+		"PaymentType": "5",
+		"PaymentFrom": "12081117863",
+		"PaymentTo": "",
+		"PaymentAmount": "71",
+		"Kid/Message": "Varekjøp HOLLUNGEN AS Østfold Dato 8.12 Kl 22.34",
+		"Date ": "2016-12-08,22:34"
+	},
+	{
+		"PaymentId": "1560000035",
+		"TransactionId": "1060000035",
+		"PaymentType": "5",
+		"PaymentFrom": "12081111317",
+		"PaymentTo": "",
+		"PaymentAmount": "55",
+		"Kid/Message": "Varekjøp Lefdal Elektromarked AS Akershus Dato 27.7 Kl 8.19",
+		"Date ": "2016-07-27,08:19"
+	},
+	{
+		"PaymentId": "1560000036",
+		"TransactionId": "1060000036",
+		"PaymentType": "5",
+		"PaymentFrom": "12081124283",
+		"PaymentTo": "",
+		"PaymentAmount": "60",
+		"Kid/Message": "Varekjøp Stathelle Og Omegn Idrettslag Telemark Dato 22.4 Kl 12.4",
+		"Date ": "2016-04-22,12:04"
+	},
+	{
+		"PaymentId": "1560000037",
+		"TransactionId": "1060000037",
+		"PaymentType": "5",
+		"PaymentFrom": "12081114215",
+		"PaymentTo": "",
+		"PaymentAmount": "88",
+		"Kid/Message": "Varekjøp BRAVO HÅNDBALLKLUBB Troms Dato 1.6 Kl 14.18",
+		"Date ": "2016-06-01,14:18"
+	},
+	{
+		"PaymentId": "1560000038",
+		"TransactionId": "1060000038",
+		"PaymentType": "5",
+		"PaymentFrom": "12081114444",
+		"PaymentTo": "",
+		"PaymentAmount": "22",
+		"Kid/Message": "Varekjøp BORGEN IDRETTSLAG Østfold Dato 20.10 Kl 14.56",
+		"Date ": "2016-10-20,14:56"
+	},
+	{
+		"PaymentId": "1560000039",
+		"TransactionId": "1060000039",
+		"PaymentType": "5",
+		"PaymentFrom": "12081115922",
+		"PaymentTo": "",
+		"PaymentAmount": "42",
+		"Kid/Message": "Varekjøp Røyken Kommune Buskerud Dato 15.6 Kl 9.11",
+		"Date ": "2016-06-15,09:11"
+	},
+	{
+		"PaymentId": "1560000040",
+		"TransactionId": "1060000040",
+		"PaymentType": "5",
+		"PaymentFrom": "12081123638",
+		"PaymentTo": "",
+		"PaymentAmount": "21",
+		"Kid/Message": "Varekjøp Studentunionen Høyskolen Kristiania Avd Trondheim Sør-Trøndelag Dato 8.4 Kl 13.21",
+		"Date ": "2016-04-08,13:21"
+	},
+	{
+		"PaymentId": "1560000041",
+		"TransactionId": "1060000041",
+		"PaymentType": "5",
+		"PaymentFrom": "12081124548",
+		"PaymentTo": "",
+		"PaymentAmount": "60",
+		"Kid/Message": "Varekjøp Son Håndballklubb Akershus Dato 27.4 Kl 21.11",
+		"Date ": "2016-04-27,21:11"
+	},
+	{
+		"PaymentId": "1560000042",
+		"TransactionId": "1060000042",
+		"PaymentType": "5",
+		"PaymentFrom": "12081115949",
+		"PaymentTo": "",
+		"PaymentAmount": "56",
+		"Kid/Message": "Varekjøp SVOLVÆR IDRETTSLAG Nordland Dato 10.3 Kl 20.42",
+		"Date ": "2016-03-10,20:42"
+	},
+	{
+		"PaymentId": "1560000043",
+		"TransactionId": "1060000043",
+		"PaymentType": "5",
+		"PaymentFrom": "12081123918",
+		"PaymentTo": "",
+		"PaymentAmount": "80",
+		"Kid/Message": "Varekjøp IMPANDE, GAMALAKHE FOUNDATION NORWAY Oslo Dato 25.10 Kl 8.6",
+		"Date ": "2016-10-25,08:06"
+	},
+	{
+		"PaymentId": "1560000044",
+		"TransactionId": "1060000044",
+		"PaymentType": "5",
+		"PaymentFrom": "12081113496",
+		"PaymentTo": "",
+		"PaymentAmount": "34",
+		"Kid/Message": "Varekjøp Søndre Land IL Fotball 5 Oppland Dato 26.11 Kl 7.17",
+		"Date ": "2016-11-26,07:17"
+	},
+	{
+		"PaymentId": "1560000045",
+		"TransactionId": "1060000045",
+		"PaymentType": "5",
+		"PaymentFrom": "12081119742",
+		"PaymentTo": "",
+		"PaymentAmount": "43",
+		"Kid/Message": "Varekjøp Fossefallet Supporterklubb Østfold Dato 23.9 Kl 18.35",
+		"Date ": "2016-09-23,18:35"
+	},
+	{
+		"PaymentId": "1560000046",
+		"TransactionId": "1060000046",
+		"PaymentType": "5",
+		"PaymentFrom": "12081119271",
+		"PaymentTo": "",
+		"PaymentAmount": "39",
+		"Kid/Message": "Varekjøp TOMA FACILITY SERVICES AS Hordaland Dato 22.5 Kl 15.10",
+		"Date ": "2016-05-22,15:10"
+	},
+	{
+		"PaymentId": "1560000047",
+		"TransactionId": "1060000047",
+		"PaymentType": "5",
+		"PaymentFrom": "12081112669",
+		"PaymentTo": "",
+		"PaymentAmount": "41",
+		"Kid/Message": "Varekjøp STJØRDAL HÅNDBALLKLUBB Nord-Trøndelag Dato 25.5 Kl 16.35",
+		"Date ": "2016-05-25,16:35"
+	},
+	{
+		"PaymentId": "1560000048",
+		"TransactionId": "1060000048",
+		"PaymentType": "5",
+		"PaymentFrom": "12081112869",
+		"PaymentTo": "",
+		"PaymentAmount": "73",
+		"Kid/Message": "Varekjøp Tine Sa Oslo Dato 23.9 Kl 7.20",
+		"Date ": "2016-09-23,07:20"
+	},
+	{
+		"PaymentId": "1560000049",
+		"TransactionId": "1060000049",
+		"PaymentType": "5",
+		"PaymentFrom": "12081112324",
+		"PaymentTo": "",
+		"PaymentAmount": "33",
+		"Kid/Message": "Varekjøp TORSHOV SPORT KLUBBSERVICE AS Oslo Dato 7.6 Kl 19.38",
+		"Date ": "2016-06-07,19:38"
+	},
+	{
+		"PaymentId": "1560000050",
+		"TransactionId": "1060000050",
+		"PaymentType": "5",
+		"PaymentFrom": "12081116998",
+		"PaymentTo": "",
+		"PaymentAmount": "79",
+		"Kid/Message": "Varekjøp Miljøhuset Gnisten As Akershus Dato 23.11 Kl 16.24",
+		"Date ": "2016-11-23,16:24"
+	},
+	{
+		"PaymentId": "1560000051",
+		"TransactionId": "1060000051",
+		"PaymentType": "5",
+		"PaymentFrom": "12081123448",
+		"PaymentTo": "",
+		"PaymentAmount": "22",
+		"Kid/Message": "Varekjøp Nettbuss Travel AS Oslo Dato 4.11 Kl 12.4",
+		"Date ": "2016-11-04,12:04"
+	},
+	{
+		"PaymentId": "1560000052",
+		"TransactionId": "1060000052",
+		"PaymentType": "5",
+		"PaymentFrom": "12081113266",
+		"PaymentTo": "",
+		"PaymentAmount": "88",
+		"Kid/Message": "Varekjøp BERGENS TURNFORENING Hordaland Dato 1.1 Kl 10.50",
+		"Date ": "2016-01-01,10:50"
+	},
+	{
+		"PaymentId": "1560000053",
+		"TransactionId": "1060000053",
+		"PaymentType": "5",
+		"PaymentFrom": "12081115218",
+		"PaymentTo": "",
+		"PaymentAmount": "36",
+		"Kid/Message": "Varekjøp IDRETTSLAGET RUNAR Vestfold Dato 23.6 Kl 20.19",
+		"Date ": "2016-06-23,20:19"
+	},
+	{
+		"PaymentId": "1560000054",
+		"TransactionId": "1060000054",
+		"PaymentType": "5",
+		"PaymentFrom": "12081119587",
+		"PaymentTo": "",
+		"PaymentAmount": "62",
+		"Kid/Message": "Varekjøp IDRETTSLAGET BJARG Hordaland Dato 26.2 Kl 7.45",
+		"Date ": "2016-02-26,07:45"
+	},
+	{
+		"PaymentId": "1560000055",
+		"TransactionId": "1060000055",
+		"PaymentType": "5",
+		"PaymentFrom": "12081119662",
+		"PaymentTo": "",
+		"PaymentAmount": "87",
+		"Kid/Message": "Varekjøp Medkila IL Troms Dato 23.7 Kl 14.0",
+		"Date ": "2016-07-23,14:00"
+	},
+	{
+		"PaymentId": "1560000056",
+		"TransactionId": "1060000056",
+		"PaymentType": "5",
+		"PaymentFrom": "12081115223",
+		"PaymentTo": "",
+		"PaymentAmount": "46",
+		"Kid/Message": "Varekjøp EIK IF TØNSBERG Vestfold Dato 8.6 Kl 15.58",
+		"Date ": "2016-06-08,15:58"
+	},
+	{
+		"PaymentId": "1560000057",
+		"TransactionId": "1060000057",
+		"PaymentType": "5",
+		"PaymentFrom": "12081118669",
+		"PaymentTo": "",
+		"PaymentAmount": "31",
+		"Kid/Message": "Varekjøp DET NORSKE MISJONSSELSKAP Rogaland Dato 17.12 Kl 11.41",
+		"Date ": "2016-12-17,11:41"
+	},
+	{
+		"PaymentId": "1560000058",
+		"TransactionId": "1060000058",
+		"PaymentType": "5",
+		"PaymentFrom": "12081118666",
+		"PaymentTo": "",
+		"PaymentAmount": "44",
+		"Kid/Message": "Varekjøp SKIPTVET IL Østfold Dato 23.6 Kl 16.28",
+		"Date ": "2016-06-23,16:28"
+	},
+	{
+		"PaymentId": "1560000059",
+		"TransactionId": "1060000059",
+		"PaymentType": "5",
+		"PaymentFrom": "12081119132",
+		"PaymentTo": "",
+		"PaymentAmount": "68",
+		"Kid/Message": "Varekjøp VESTFOLDMUSEENE IKS Vestfold Dato 4.3 Kl 15.7",
+		"Date ": "2016-03-04,15:07"
+	},
+	{
+		"PaymentId": "1560000060",
+		"TransactionId": "1060000060",
+		"PaymentType": "5",
+		"PaymentFrom": "12081112233",
+		"PaymentTo": "",
+		"PaymentAmount": "30",
+		"Kid/Message": "Varekjøp Misjonssambandet Salem Rogaland Dato 28.7 Kl 9.43",
+		"Date ": "2016-07-28,09:43"
+	},
+	{
+		"PaymentId": "1560000061",
+		"TransactionId": "1060000061",
+		"PaymentType": "5",
+		"PaymentFrom": "12081118525",
+		"PaymentTo": "",
+		"PaymentAmount": "30",
+		"Kid/Message": "Varekjøp NORGESBUSS EKSPRESS AS Akershus Dato 8.6 Kl 9.9",
+		"Date ": "2016-06-08,09:09"
+	},
+	{
+		"PaymentId": "1560000062",
+		"TransactionId": "1060000062",
+		"PaymentType": "5",
+		"PaymentFrom": "12081116956",
+		"PaymentTo": "",
+		"PaymentAmount": "90",
+		"Kid/Message": "Varekjøp DEADLINE EVENT AS Nordland Dato 25.6 Kl 13.27",
+		"Date ": "2016-06-25,13:27"
+	},
+	{
+		"PaymentId": "1560000063",
+		"TransactionId": "1060000063",
+		"PaymentType": "5",
+		"PaymentFrom": "12081114761",
+		"PaymentTo": "",
+		"PaymentAmount": "40",
+		"Kid/Message": "Varekjøp SOLA HÅNDBALLKLUBB Rogaland Dato 18.5 Kl 20.17",
+		"Date ": "2016-05-18,20:17"
+	},
+	{
+		"PaymentId": "1560000064",
+		"TransactionId": "1060000064",
+		"PaymentType": "5",
+		"PaymentFrom": "12081111966",
+		"PaymentTo": "",
+		"PaymentAmount": "86",
+		"Kid/Message": "Varekjøp RKE IDRETTSLAG FOTBALL Akershus Dato 11.3 Kl 12.56",
+		"Date ": "2016-03-11,12:56"
+	},
+	{
+		"PaymentId": "1560000065",
+		"TransactionId": "1060000065",
+		"PaymentType": "5",
+		"PaymentFrom": "12081123554",
+		"PaymentTo": "",
+		"PaymentAmount": "31",
+		"Kid/Message": "Varekjøp BOREAL TRAVEL AS Rogaland Dato 16.9 Kl 12.40",
+		"Date ": "2016-09-16,12:40"
+	},
+	{
+		"PaymentId": "1560000066",
+		"TransactionId": "1060000066",
+		"PaymentType": "5",
+		"PaymentFrom": "12081122515",
+		"PaymentTo": "",
+		"PaymentAmount": "40",
+		"Kid/Message": "Varekjøp SAFIN FRISØR BEZHAN SARDAR OMAR OMAR Østfold Dato 17.11 Kl 17.17",
+		"Date ": "2016-11-17,17:17"
+	},
+	{
+		"PaymentId": "1560000067",
+		"TransactionId": "1060000067",
+		"PaymentType": "5",
+		"PaymentFrom": "12081115485",
+		"PaymentTo": "",
+		"PaymentAmount": "40",
+		"Kid/Message": "Varekjøp BABYBANDEN AS Vest-Agder Dato 17.8 Kl 23.49",
+		"Date ": "2016-08-17,23:49"
+	},
+	{
+		"PaymentId": "1560000068",
+		"TransactionId": "1060000068",
+		"PaymentType": "5",
+		"PaymentFrom": "12081122482",
+		"PaymentTo": "",
+		"PaymentAmount": "87",
+		"Kid/Message": "Varekjøp Berskaughallen As Buskerud Dato 7.2 Kl 16.8",
+		"Date ": "2016-02-07,16:08"
+	},
+	{
+		"PaymentId": "1550000001",
+		"TransactionId": "1050000001",
+		"PaymentType": "4",
+		"PaymentFrom": "12081114343",
+		"PaymentTo": "14081111136",
+		"PaymentAmount": "550",
+		"Kid/Message": "VISA 4619095 Nok 550 COOP ØST SA",
+		"Date ": "2016-03-10,09:22"
+	},
+	{
+		"PaymentId": "1550000002",
+		"TransactionId": "1050000002",
+		"PaymentType": "4",
+		"PaymentFrom": "12081115814",
+		"PaymentTo": "14081111127",
+		"PaymentAmount": "330",
+		"Kid/Message": "VISA 8935735 Nok 330 FJELLESTAD LANDHANDLERI",
+		"Date ": "2016-02-05,09:10"
+	},
+	{
+		"PaymentId": "1550000003",
+		"TransactionId": "1050000003",
+		"PaymentType": "4",
+		"PaymentFrom": "12081116237",
+		"PaymentTo": "14081111120",
+		"PaymentAmount": "400",
+		"Kid/Message": "Master Card 3338913 Nok 400 COOP RØROS SA",
+		"Date ": "2016-05-02,11:20"
+	},
+	{
+		"PaymentId": "1550000004",
+		"TransactionId": "1050000004",
+		"PaymentType": "4",
+		"PaymentFrom": "12081124754",
+		"PaymentTo": "14081111124",
+		"PaymentAmount": "620",
+		"Kid/Message": "Master Card 9833476 Nok 620 EIMEALT AS",
+		"Date ": "2016-03-05,12:13"
+	},
+	{
+		"PaymentId": "1550000005",
+		"TransactionId": "1050000005",
+		"PaymentType": "4",
+		"PaymentFrom": "12081112727",
+		"PaymentTo": "14081111122",
+		"PaymentAmount": "380",
+		"Kid/Message": "Master Card 5413564 Nok 380 Chill Corporation",
+		"Date ": "2016-03-08,13:48"
+	},
+	{
+		"PaymentId": "1550000006",
+		"TransactionId": "1050000006",
+		"PaymentType": "4",
+		"PaymentFrom": "12081112335",
+		"PaymentTo": "14081111137",
+		"PaymentAmount": "720",
+		"Kid/Message": "VISA 6835235 Nok 720 Colosseum Kiosk AS",
+		"Date ": "2016-05-06,08:08"
+	},
+	{
+		"PaymentId": "1550000007",
+		"TransactionId": "1050000007",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113791",
+		"PaymentTo": "14081111121",
+		"PaymentAmount": "440",
+		"Kid/Message": "VISA 9419471 Nok 440 YERBA MATE NORWAY AS",
+		"Date ": "2016-02-08,08:18"
+	},
+	{
+		"PaymentId": "1550000008",
+		"TransactionId": "1050000008",
+		"PaymentType": "4",
+		"PaymentFrom": "12081112777",
+		"PaymentTo": "14081111126",
+		"PaymentAmount": "380",
+		"Kid/Message": "Master Card 4557359 Nok 380 KUNCZYNSKA FOOD",
+		"Date ": "2016-05-04,08:55"
+	},
+	{
+		"PaymentId": "1550000009",
+		"TransactionId": "1050000009",
+		"PaymentType": "4",
+		"PaymentFrom": "12081119447",
+		"PaymentTo": "14081111122",
+		"PaymentAmount": "470",
+		"Kid/Message": "Master Card 5973662 Nok 470 Chill Corporation",
+		"Date ": "2016-02-03,10:32"
+	},
+	{
+		"PaymentId": "1550000010",
+		"TransactionId": "1050000010",
+		"PaymentType": "4",
+		"PaymentFrom": "12081119334",
+		"PaymentTo": "14081111136",
+		"PaymentAmount": "210",
+		"Kid/Message": "VISA 9941004 Nok 210 COOP ØST SA",
+		"Date ": "2016-03-07,08:13"
+	},
+	{
+		"PaymentId": "1550000011",
+		"TransactionId": "1050000011",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113431",
+		"PaymentTo": "14081111129",
+		"PaymentAmount": "450",
+		"Kid/Message": "Master Card 2545051 Nok 450 Spirit of Norway AS",
+		"Date ": "2016-04-04,08:16"
+	},
+	{
+		"PaymentId": "1550000012",
+		"TransactionId": "1050000012",
+		"PaymentType": "4",
+		"PaymentFrom": "12081112233",
+		"PaymentTo": "14081111120",
+		"PaymentAmount": "660",
+		"Kid/Message": "VISA 8781942 Nok 660 COOP RØROS SA",
+		"Date ": "2016-05-05,09:14"
+	},
+	{
+		"PaymentId": "1550000013",
+		"TransactionId": "1050000013",
+		"PaymentType": "4",
+		"PaymentFrom": "12081122799",
+		"PaymentTo": "14081111130",
+		"PaymentAmount": "320",
+		"Kid/Message": "Master Card 4651931 Nok 320 Kiwi",
+		"Date ": "2016-05-01,11:20"
+	},
+	{
+		"PaymentId": "1550000014",
+		"TransactionId": "1050000014",
+		"PaymentType": "4",
+		"PaymentFrom": "12081117933",
+		"PaymentTo": "14081111135",
+		"PaymentAmount": "460",
+		"Kid/Message": "VISA 3047279 Nok 460 Joker Event AS",
+		"Date ": "2016-02-06,11:08"
+	},
+	{
+		"PaymentId": "1550000015",
+		"TransactionId": "1050000015",
+		"PaymentType": "4",
+		"PaymentFrom": "12081118579",
+		"PaymentTo": "14081111134",
+		"PaymentAmount": "580",
+		"Kid/Message": "VISA 7276468 Nok 580 Coop Vest Sa",
+		"Date ": "2016-04-04,12:19"
+	},
+	{
+		"PaymentId": "1550000016",
+		"TransactionId": "1050000016",
+		"PaymentType": "4",
+		"PaymentFrom": "12081115931",
+		"PaymentTo": "14081111118",
+		"PaymentAmount": "620",
+		"Kid/Message": "VISA 5429699 Nok 620 KOLONIAL.NO AS",
+		"Date ": "2016-04-05,08:00"
+	},
+	{
+		"PaymentId": "1550000017",
+		"TransactionId": "1050000017",
+		"PaymentType": "4",
+		"PaymentFrom": "12081124264",
+		"PaymentTo": "14081111132",
+		"PaymentAmount": "320",
+		"Kid/Message": "VISA 9928445 Nok 320 KAFFA AS",
+		"Date ": "2016-05-02,10:27"
+	},
+	{
+		"PaymentId": "1550000018",
+		"TransactionId": "1050000018",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113328",
+		"PaymentTo": "14081111125",
+		"PaymentAmount": "240",
+		"Kid/Message": "Master Card 3834585 Nok 240 Sakura Sushi Hoong",
+		"Date ": "2016-01-07,10:00"
+	},
+	{
+		"PaymentId": "1550000019",
+		"TransactionId": "1050000019",
+		"PaymentType": "4",
+		"PaymentFrom": "12081119897",
+		"PaymentTo": "14081111137",
+		"PaymentAmount": "730",
+		"Kid/Message": "Master Card 3674397 Nok 730 Colosseum Kiosk AS",
+		"Date ": "2016-03-05,12:58"
+	},
+	{
+		"PaymentId": "1550000020",
+		"TransactionId": "1050000020",
+		"PaymentType": "4",
+		"PaymentFrom": "12081117758",
+		"PaymentTo": "14081111119",
+		"PaymentAmount": "470",
+		"Kid/Message": "Master Card 2303150 Nok 470 RED BULL NORWAY AS",
+		"Date ": "2016-02-07,13:28"
+	},
+	{
+		"PaymentId": "1550000021",
+		"TransactionId": "1050000021",
+		"PaymentType": "4",
+		"PaymentFrom": "12081122579",
+		"PaymentTo": "14081111134",
+		"PaymentAmount": "530",
+		"Kid/Message": "VISA 4988781 Nok 530 Coop Vest Sa",
+		"Date ": "2016-04-04,08:33"
+	},
+	{
+		"PaymentId": "1550000022",
+		"TransactionId": "1050000022",
+		"PaymentType": "4",
+		"PaymentFrom": "12081116189",
+		"PaymentTo": "14081111132",
+		"PaymentAmount": "400",
+		"Kid/Message": "Master Card 7118996 Nok 400 KAFFA AS",
+		"Date ": "2016-02-10,12:05"
+	},
+	{
+		"PaymentId": "1550000023",
+		"TransactionId": "1050000023",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113763",
+		"PaymentTo": "14081111137",
+		"PaymentAmount": "520",
+		"Kid/Message": "Master Card 2439623 Nok 520 Colosseum Kiosk AS",
+		"Date ": "2016-04-08,10:15"
+	},
+	{
+		"PaymentId": "1550000024",
+		"TransactionId": "1050000024",
+		"PaymentType": "4",
+		"PaymentFrom": "12081117945",
+		"PaymentTo": "14081111127",
+		"PaymentAmount": "290",
+		"Kid/Message": "Master Card 6309811 Nok 290 FJELLESTAD LANDHANDLERI",
+		"Date ": "2016-05-04,08:58"
+	},
+	{
+		"PaymentId": "1550000025",
+		"TransactionId": "1050000025",
+		"PaymentType": "4",
+		"PaymentFrom": "12081123155",
+		"PaymentTo": "14081111122",
+		"PaymentAmount": "580",
+		"Kid/Message": "VISA 4153721 Nok 580 Chill Corporation",
+		"Date ": "2016-03-03,12:18"
+	},
+	{
+		"PaymentId": "1550000026",
+		"TransactionId": "1050000026",
+		"PaymentType": "4",
+		"PaymentFrom": "12081118972",
+		"PaymentTo": "14081111134",
+		"PaymentAmount": "800",
+		"Kid/Message": "VISA 8999268 Nok 800 Coop Vest Sa",
+		"Date ": "2016-01-01,13:02"
+	},
+	{
+		"PaymentId": "1550000027",
+		"TransactionId": "1050000027",
+		"PaymentType": "4",
+		"PaymentFrom": "12081114266",
+		"PaymentTo": "14081111127",
+		"PaymentAmount": "750",
+		"Kid/Message": "Master Card 8671287 Nok 750 FJELLESTAD LANDHANDLERI",
+		"Date ": "2016-03-01,08:33"
+	},
+	{
+		"PaymentId": "1550000028",
+		"TransactionId": "1050000028",
+		"PaymentType": "4",
+		"PaymentFrom": "12081111247",
+		"PaymentTo": "14081111124",
+		"PaymentAmount": "710",
+		"Kid/Message": "Master Card 3509861 Nok 710 EIMEALT AS",
+		"Date ": "2016-03-06,13:10"
+	},
+	{
+		"PaymentId": "1550000029",
+		"TransactionId": "1050000029",
+		"PaymentType": "4",
+		"PaymentFrom": "12081118342",
+		"PaymentTo": "14081111135",
+		"PaymentAmount": "420",
+		"Kid/Message": "VISA 2924896 Nok 420 Joker Event AS",
+		"Date ": "2016-04-03,08:40"
+	},
+	{
+		"PaymentId": "1550000030",
+		"TransactionId": "1050000030",
+		"PaymentType": "4",
+		"PaymentFrom": "12081121696",
+		"PaymentTo": "14081111130",
+		"PaymentAmount": "360",
+		"Kid/Message": "VISA 8105601 Nok 360 Kiwi",
+		"Date ": "2016-05-07,12:08"
+	},
+	{
+		"PaymentId": "1550000031",
+		"TransactionId": "1050000031",
+		"PaymentType": "4",
+		"PaymentFrom": "12081121654",
+		"PaymentTo": "14081111122",
+		"PaymentAmount": "550",
+		"Kid/Message": "VISA 6979985 Nok 550 Chill Corporation",
+		"Date ": "2016-02-07,10:55"
+	},
+	{
+		"PaymentId": "1550000032",
+		"TransactionId": "1050000032",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113128",
+		"PaymentTo": "14081111124",
+		"PaymentAmount": "430",
+		"Kid/Message": "Master Card 3866560 Nok 430 EIMEALT AS",
+		"Date ": "2016-04-07,10:35"
+	},
+	{
+		"PaymentId": "1550000033",
+		"TransactionId": "1050000033",
+		"PaymentType": "4",
+		"PaymentFrom": "12081119792",
+		"PaymentTo": "14081111127",
+		"PaymentAmount": "510",
+		"Kid/Message": "VISA 8882878 Nok 510 FJELLESTAD LANDHANDLERI",
+		"Date ": "2016-03-10,13:19"
+	},
+	{
+		"PaymentId": "1550000034",
+		"TransactionId": "1050000034",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113532",
+		"PaymentTo": "14081111130",
+		"PaymentAmount": "800",
+		"Kid/Message": "Master Card 8952258 Nok 800 Kiwi",
+		"Date ": "2016-03-03,13:32"
+	},
+	{
+		"PaymentId": "1550000035",
+		"TransactionId": "1050000035",
+		"PaymentType": "4",
+		"PaymentFrom": "12081121213",
+		"PaymentTo": "14081111118",
+		"PaymentAmount": "520",
+		"Kid/Message": "Master Card 6304919 Nok 520 KOLONIAL.NO AS",
+		"Date ": "2016-04-03,12:10"
+	},
+	{
+		"PaymentId": "1550000036",
+		"TransactionId": "1050000036",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113887",
+		"PaymentTo": "14081111134",
+		"PaymentAmount": "740",
+		"Kid/Message": "Master Card 3624431 Nok 740 Coop Vest Sa",
+		"Date ": "2016-04-07,12:36"
+	},
+	{
+		"PaymentId": "1550000037",
+		"TransactionId": "1050000037",
+		"PaymentType": "4",
+		"PaymentFrom": "12081117686",
+		"PaymentTo": "14081111129",
+		"PaymentAmount": "420",
+		"Kid/Message": "VISA 9671903 Nok 420 Spirit of Norway AS",
+		"Date ": "2016-03-03,12:46"
+	},
+	{
+		"PaymentId": "1550000038",
+		"TransactionId": "1050000038",
+		"PaymentType": "4",
+		"PaymentFrom": "12081117739",
+		"PaymentTo": "14081111135",
+		"PaymentAmount": "730",
+		"Kid/Message": "VISA 6979841 Nok 730 Joker Event AS",
+		"Date ": "2016-04-08,08:14"
+	},
+	{
+		"PaymentId": "1550000039",
+		"TransactionId": "1050000039",
+		"PaymentType": "4",
+		"PaymentFrom": "12081116934",
+		"PaymentTo": "14081111136",
+		"PaymentAmount": "690",
+		"Kid/Message": "VISA 9058974 Nok 690 COOP ØST SA",
+		"Date ": "2016-05-02,12:27"
+	},
+	{
+		"PaymentId": "1550000040",
+		"TransactionId": "1050000040",
+		"PaymentType": "4",
+		"PaymentFrom": "12081114714",
+		"PaymentTo": "14081111124",
+		"PaymentAmount": "110",
+		"Kid/Message": "Master Card 9921559 Nok 110 EIMEALT AS",
+		"Date ": "2016-03-03,12:26"
+	},
+	{
+		"PaymentId": "1550000041",
+		"TransactionId": "1050000041",
+		"PaymentType": "4",
+		"PaymentFrom": "12081116517",
+		"PaymentTo": "14081111134",
+		"PaymentAmount": "160",
+		"Kid/Message": "Master Card 7299457 Nok 160 Coop Vest Sa",
+		"Date ": "2016-02-10,10:26"
+	},
+	{
+		"PaymentId": "1550000042",
+		"TransactionId": "1050000042",
+		"PaymentType": "4",
+		"PaymentFrom": "12081114786",
+		"PaymentTo": "14081111131",
+		"PaymentAmount": "320",
+		"Kid/Message": "VISA 9986693 Nok 320 Rema 1000",
+		"Date ": "2016-05-07,13:33"
+	},
+	{
+		"PaymentId": "1550000043",
+		"TransactionId": "1050000043",
+		"PaymentType": "4",
+		"PaymentFrom": "12081111484",
+		"PaymentTo": "14081111127",
+		"PaymentAmount": "400",
+		"Kid/Message": "Master Card 9217742 Nok 400 FJELLESTAD LANDHANDLERI",
+		"Date ": "2016-02-07,11:06"
+	},
+	{
+		"PaymentId": "1550000044",
+		"TransactionId": "1050000044",
+		"PaymentType": "4",
+		"PaymentFrom": "12081117628",
+		"PaymentTo": "14081111124",
+		"PaymentAmount": "670",
+		"Kid/Message": "Master Card 3766240 Nok 670 EIMEALT AS",
+		"Date ": "2016-02-05,10:10"
+	},
+	{
+		"PaymentId": "1550000045",
+		"TransactionId": "1050000045",
+		"PaymentType": "4",
+		"PaymentFrom": "12081123624",
+		"PaymentTo": "14081111118",
+		"PaymentAmount": "390",
+		"Kid/Message": "Master Card 9165007 Nok 390 KOLONIAL.NO AS",
+		"Date ": "2016-03-08,11:28"
+	},
+	{
+		"PaymentId": "1550000046",
+		"TransactionId": "1050000046",
+		"PaymentType": "4",
+		"PaymentFrom": "12081121396",
+		"PaymentTo": "14081111127",
+		"PaymentAmount": "250",
+		"Kid/Message": "Master Card 4337800 Nok 250 FJELLESTAD LANDHANDLERI",
+		"Date ": "2016-01-09,09:05"
+	},
+	{
+		"PaymentId": "1550000047",
+		"TransactionId": "1050000047",
+		"PaymentType": "4",
+		"PaymentFrom": "12081119773",
+		"PaymentTo": "14081111118",
+		"PaymentAmount": "340",
+		"Kid/Message": "VISA 9522143 Nok 340 KOLONIAL.NO AS",
+		"Date ": "2016-03-06,11:39"
+	},
+	{
+		"PaymentId": "1550000048",
+		"TransactionId": "1050000048",
+		"PaymentType": "4",
+		"PaymentFrom": "12081118833",
+		"PaymentTo": "14081111134",
+		"PaymentAmount": "690",
+		"Kid/Message": "Master Card 6343768 Nok 690 Coop Vest Sa",
+		"Date ": "2016-01-10,10:20"
+	},
+	{
+		"PaymentId": "1550000049",
+		"TransactionId": "1050000049",
+		"PaymentType": "4",
+		"PaymentFrom": "12081115732",
+		"PaymentTo": "14081111123",
+		"PaymentAmount": "740",
+		"Kid/Message": "Master Card 7740459 Nok 740 J H STERRI EFTF AS",
+		"Date ": "2016-01-06,12:52"
+	},
+	{
+		"PaymentId": "1550000050",
+		"TransactionId": "1050000050",
+		"PaymentType": "4",
+		"PaymentFrom": "12081118845",
+		"PaymentTo": "14081111136",
+		"PaymentAmount": "230",
+		"Kid/Message": "Master Card 3031800 Nok 230 COOP ØST SA",
+		"Date ": "2016-04-07,13:45"
+	},
+	{
+		"PaymentId": "1550000051",
+		"TransactionId": "1050000051",
+		"PaymentType": "4",
+		"PaymentFrom": "12081117438",
+		"PaymentTo": "14081111129",
+		"PaymentAmount": "700",
+		"Kid/Message": "Master Card 3986870 Nok 700 Spirit of Norway AS",
+		"Date ": "2016-01-01,08:28"
+	},
+	{
+		"PaymentId": "1550000052",
+		"TransactionId": "1050000052",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113497",
+		"PaymentTo": "14081111122",
+		"PaymentAmount": "210",
+		"Kid/Message": "VISA 4970095 Nok 210 Chill Corporation",
+		"Date ": "2016-02-02,11:13"
+	},
+	{
+		"PaymentId": "1550000053",
+		"TransactionId": "1050000053",
+		"PaymentType": "4",
+		"PaymentFrom": "12081114948",
+		"PaymentTo": "14081111125",
+		"PaymentAmount": "330",
+		"Kid/Message": "Master Card 9523973 Nok 330 Sakura Sushi Hoong",
+		"Date ": "2016-02-10,11:56"
+	},
+	{
+		"PaymentId": "1550000054",
+		"TransactionId": "1050000054",
+		"PaymentType": "4",
+		"PaymentFrom": "12081122758",
+		"PaymentTo": "14081111125",
+		"PaymentAmount": "160",
+		"Kid/Message": "Master Card 2480720 Nok 160 Sakura Sushi Hoong",
+		"Date ": "2016-04-06,12:28"
+	},
+	{
+		"PaymentId": "1550000055",
+		"TransactionId": "1050000055",
+		"PaymentType": "4",
+		"PaymentFrom": "12081111945",
+		"PaymentTo": "14081111122",
+		"PaymentAmount": "350",
+		"Kid/Message": "VISA 8132710 Nok 350 Chill Corporation",
+		"Date ": "2016-03-09,10:10"
+	},
+	{
+		"PaymentId": "1550000056",
+		"TransactionId": "1050000056",
+		"PaymentType": "4",
+		"PaymentFrom": "12081121245",
+		"PaymentTo": "14081111120",
+		"PaymentAmount": "300",
+		"Kid/Message": "Master Card 6880932 Nok 300 COOP RØROS SA",
+		"Date ": "2016-02-08,08:39"
+	},
+	{
+		"PaymentId": "1550000057",
+		"TransactionId": "1050000057",
+		"PaymentType": "4",
+		"PaymentFrom": "12081117275",
+		"PaymentTo": "14081111128",
+		"PaymentAmount": "410",
+		"Kid/Message": "VISA 9637836 Nok 410 CC DAGLIGVARE AS",
+		"Date ": "2016-05-04,08:25"
+	},
+	{
+		"PaymentId": "1550000058",
+		"TransactionId": "1050000058",
+		"PaymentType": "4",
+		"PaymentFrom": "12081122577",
+		"PaymentTo": "14081111136",
+		"PaymentAmount": "440",
+		"Kid/Message": "Master Card 2936255 Nok 440 COOP ØST SA",
+		"Date ": "2016-03-05,13:03"
+	},
+	{
+		"PaymentId": "1550000059",
+		"TransactionId": "1050000059",
+		"PaymentType": "4",
+		"PaymentFrom": "12081115554",
+		"PaymentTo": "14081111125",
+		"PaymentAmount": "520",
+		"Kid/Message": "VISA 6988839 Nok 520 Sakura Sushi Hoong",
+		"Date ": "2016-02-02,11:14"
+	},
+	{
+		"PaymentId": "1550000060",
+		"TransactionId": "1050000060",
+		"PaymentType": "4",
+		"PaymentFrom": "12081118153",
+		"PaymentTo": "14081111135",
+		"PaymentAmount": "560",
+		"Kid/Message": "Master Card 5014614 Nok 560 Joker Event AS",
+		"Date ": "2016-04-07,12:37"
+	},
+	{
+		"PaymentId": "1550000061",
+		"TransactionId": "1050000061",
+		"PaymentType": "4",
+		"PaymentFrom": "12081111961",
+		"PaymentTo": "14081111128",
+		"PaymentAmount": "770",
+		"Kid/Message": "Master Card 9856509 Nok 770 CC DAGLIGVARE AS",
+		"Date ": "2016-01-08,11:09"
+	},
+	{
+		"PaymentId": "1550000062",
+		"TransactionId": "1050000062",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113422",
+		"PaymentTo": "14081111126",
+		"PaymentAmount": "710",
+		"Kid/Message": "Master Card 6507347 Nok 710 KUNCZYNSKA FOOD",
+		"Date ": "2016-01-05,09:43"
+	},
+	{
+		"PaymentId": "1550000063",
+		"TransactionId": "1050000063",
+		"PaymentType": "4",
+		"PaymentFrom": "12081117473",
+		"PaymentTo": "14081111132",
+		"PaymentAmount": "380",
+		"Kid/Message": "VISA 9627714 Nok 380 KAFFA AS",
+		"Date ": "2016-02-01,11:24"
+	},
+	{
+		"PaymentId": "1550000064",
+		"TransactionId": "1050000064",
+		"PaymentType": "4",
+		"PaymentFrom": "12081111597",
+		"PaymentTo": "14081111137",
+		"PaymentAmount": "220",
+		"Kid/Message": "Master Card 2851848 Nok 220 Colosseum Kiosk AS",
+		"Date ": "2016-01-06,12:57"
+	},
+	{
+		"PaymentId": "1550000065",
+		"TransactionId": "1050000065",
+		"PaymentType": "4",
+		"PaymentFrom": "12081112637",
+		"PaymentTo": "14081111131",
+		"PaymentAmount": "430",
+		"Kid/Message": "VISA 9274467 Nok 430 Rema 1000",
+		"Date ": "2016-04-06,10:14"
+	},
+	{
+		"PaymentId": "1550000066",
+		"TransactionId": "1050000066",
+		"PaymentType": "4",
+		"PaymentFrom": "12081122312",
+		"PaymentTo": "14081111128",
+		"PaymentAmount": "280",
+		"Kid/Message": "Master Card 2049982 Nok 280 CC DAGLIGVARE AS",
+		"Date ": "2016-05-02,13:30"
+	},
+	{
+		"PaymentId": "1550000067",
+		"TransactionId": "1050000067",
+		"PaymentType": "4",
+		"PaymentFrom": "12081123721",
+		"PaymentTo": "14081111126",
+		"PaymentAmount": "320",
+		"Kid/Message": "VISA 7199535 Nok 320 KUNCZYNSKA FOOD",
+		"Date ": "2016-01-03,12:43"
+	},
+	{
+		"PaymentId": "1550000068",
+		"TransactionId": "1050000068",
+		"PaymentType": "4",
+		"PaymentFrom": "12081121733",
+		"PaymentTo": "14081111134",
+		"PaymentAmount": "130",
+		"Kid/Message": "VISA 3436884 Nok 130 Coop Vest Sa",
+		"Date ": "2016-01-04,13:04"
+	},
+	{
+		"PaymentId": "1550000069",
+		"TransactionId": "1050000069",
+		"PaymentType": "4",
+		"PaymentFrom": "12081116462",
+		"PaymentTo": "14081111121",
+		"PaymentAmount": "420",
+		"Kid/Message": "VISA 3797925 Nok 420 YERBA MATE NORWAY AS",
+		"Date ": "2016-03-10,10:14"
+	},
+	{
+		"PaymentId": "1550000070",
+		"TransactionId": "1050000070",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113837",
+		"PaymentTo": "14081111130",
+		"PaymentAmount": "420",
+		"Kid/Message": "Master Card 2245557 Nok 420 Kiwi",
+		"Date ": "2016-04-04,08:35"
+	},
+	{
+		"PaymentId": "1550000071",
+		"TransactionId": "1050000071",
+		"PaymentType": "4",
+		"PaymentFrom": "12081111544",
+		"PaymentTo": "14081111127",
+		"PaymentAmount": "750",
+		"Kid/Message": "VISA 3286085 Nok 750 FJELLESTAD LANDHANDLERI",
+		"Date ": "2016-03-05,09:46"
+	},
+	{
+		"PaymentId": "1550000072",
+		"TransactionId": "1050000072",
+		"PaymentType": "4",
+		"PaymentFrom": "12081123756",
+		"PaymentTo": "14081111135",
+		"PaymentAmount": "210",
+		"Kid/Message": "VISA 6146467 Nok 210 Joker Event AS",
+		"Date ": "2016-04-01,08:34"
+	},
+	{
+		"PaymentId": "1550000073",
+		"TransactionId": "1050000073",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113769",
+		"PaymentTo": "14081111137",
+		"PaymentAmount": "390",
+		"Kid/Message": "Master Card 9680340 Nok 390 Colosseum Kiosk AS",
+		"Date ": "2016-04-07,10:50"
+	},
+	{
+		"PaymentId": "1550000074",
+		"TransactionId": "1050000074",
+		"PaymentType": "4",
+		"PaymentFrom": "12081121468",
+		"PaymentTo": "14081111128",
+		"PaymentAmount": "400",
+		"Kid/Message": "Master Card 5293533 Nok 400 CC DAGLIGVARE AS",
+		"Date ": "2016-03-07,09:46"
+	},
+	{
+		"PaymentId": "1550000075",
+		"TransactionId": "1050000075",
+		"PaymentType": "4",
+		"PaymentFrom": "12081123686",
+		"PaymentTo": "14081111128",
+		"PaymentAmount": "660",
+		"Kid/Message": "VISA 4043891 Nok 660 CC DAGLIGVARE AS",
+		"Date ": "2016-01-07,08:20"
+	},
+	{
+		"PaymentId": "1550000076",
+		"TransactionId": "1050000076",
+		"PaymentType": "4",
+		"PaymentFrom": "12081119758",
+		"PaymentTo": "14081111130",
+		"PaymentAmount": "430",
+		"Kid/Message": "Master Card 4316139 Nok 430 Kiwi",
+		"Date ": "2016-04-09,09:04"
+	},
+	{
+		"PaymentId": "1550000077",
+		"TransactionId": "1050000077",
+		"PaymentType": "4",
+		"PaymentFrom": "12081112614",
+		"PaymentTo": "14081111128",
+		"PaymentAmount": "480",
+		"Kid/Message": "VISA 5191529 Nok 480 CC DAGLIGVARE AS",
+		"Date ": "2016-01-04,09:50"
+	},
+	{
+		"PaymentId": "1550000078",
+		"TransactionId": "1050000078",
+		"PaymentType": "4",
+		"PaymentFrom": "12081119494",
+		"PaymentTo": "14081111137",
+		"PaymentAmount": "570",
+		"Kid/Message": "Master Card 7657211 Nok 570 Colosseum Kiosk AS",
+		"Date ": "2016-03-09,09:56"
+	},
+	{
+		"PaymentId": "1550000079",
+		"TransactionId": "1050000079",
+		"PaymentType": "4",
+		"PaymentFrom": "12081111911",
+		"PaymentTo": "14081111132",
+		"PaymentAmount": "600",
+		"Kid/Message": "VISA 4934804 Nok 600 KAFFA AS",
+		"Date ": "2016-03-02,12:12"
+	},
+	{
+		"PaymentId": "1550000080",
+		"TransactionId": "1050000080",
+		"PaymentType": "4",
+		"PaymentFrom": "12081114612",
+		"PaymentTo": "14081111132",
+		"PaymentAmount": "170",
+		"Kid/Message": "Master Card 7602022 Nok 170 KAFFA AS",
+		"Date ": "2016-02-04,10:47"
+	},
+	{
+		"PaymentId": "1550000081",
+		"TransactionId": "1050000081",
+		"PaymentType": "4",
+		"PaymentFrom": "12081114744",
+		"PaymentTo": "14081111132",
+		"PaymentAmount": "770",
+		"Kid/Message": "VISA 4021377 Nok 770 KAFFA AS",
+		"Date ": "2016-05-09,09:25"
+	},
+	{
+		"PaymentId": "1550000082",
+		"TransactionId": "1050000082",
+		"PaymentType": "4",
+		"PaymentFrom": "12081115331",
+		"PaymentTo": "14081111134",
+		"PaymentAmount": "700",
+		"Kid/Message": "Master Card 2283393 Nok 700 Coop Vest Sa",
+		"Date ": "2016-05-03,08:10"
+	},
+	{
+		"PaymentId": "1550000083",
+		"TransactionId": "1050000083",
+		"PaymentType": "4",
+		"PaymentFrom": "12081122672",
+		"PaymentTo": "14081111136",
+		"PaymentAmount": "330",
+		"Kid/Message": "Master Card 8748218 Nok 330 COOP ØST SA",
+		"Date ": "2016-02-08,13:21"
+	},
+	{
+		"PaymentId": "1550000084",
+		"TransactionId": "1050000084",
+		"PaymentType": "4",
+		"PaymentFrom": "12081121154",
+		"PaymentTo": "14081111129",
+		"PaymentAmount": "550",
+		"Kid/Message": "VISA 4046763 Nok 550 Spirit of Norway AS",
+		"Date ": "2016-02-08,08:27"
+	},
+	{
+		"PaymentId": "1550000085",
+		"TransactionId": "1050000085",
+		"PaymentType": "4",
+		"PaymentFrom": "12081116636",
+		"PaymentTo": "14081111119",
+		"PaymentAmount": "650",
+		"Kid/Message": "Master Card 6799999 Nok 650 RED BULL NORWAY AS",
+		"Date ": "2016-05-05,11:26"
+	},
+	{
+		"PaymentId": "1550000086",
+		"TransactionId": "1050000086",
+		"PaymentType": "4",
+		"PaymentFrom": "12081116392",
+		"PaymentTo": "14081111119",
+		"PaymentAmount": "330",
+		"Kid/Message": "Master Card 4178560 Nok 330 RED BULL NORWAY AS",
+		"Date ": "2016-02-09,13:51"
+	},
+	{
+		"PaymentId": "1550000087",
+		"TransactionId": "1050000087",
+		"PaymentType": "4",
+		"PaymentFrom": "12081122539",
+		"PaymentTo": "14081111118",
+		"PaymentAmount": "430",
+		"Kid/Message": "VISA 3151192 Nok 430 KOLONIAL.NO AS",
+		"Date ": "2016-05-07,13:57"
+	},
+	{
+		"PaymentId": "1550000088",
+		"TransactionId": "1050000088",
+		"PaymentType": "4",
+		"PaymentFrom": "12081117871",
+		"PaymentTo": "14081111131",
+		"PaymentAmount": "790",
+		"Kid/Message": "VISA 2718858 Nok 790 Rema 1000",
+		"Date ": "2016-03-05,11:57"
+	},
+	{
+		"PaymentId": "1550000089",
+		"TransactionId": "1050000089",
+		"PaymentType": "4",
+		"PaymentFrom": "12081118783",
+		"PaymentTo": "14081111132",
+		"PaymentAmount": "610",
+		"Kid/Message": "Master Card 2270158 Nok 610 KAFFA AS",
+		"Date ": "2016-05-10,11:32"
+	},
+	{
+		"PaymentId": "1550000090",
+		"TransactionId": "1050000090",
+		"PaymentType": "4",
+		"PaymentFrom": "12081123761",
+		"PaymentTo": "14081111124",
+		"PaymentAmount": "630",
+		"Kid/Message": "VISA 3169920 Nok 630 EIMEALT AS",
+		"Date ": "2016-05-10,11:59"
+	},
+	{
+		"PaymentId": "1550000091",
+		"TransactionId": "1050000091",
+		"PaymentType": "4",
+		"PaymentFrom": "12081115292",
+		"PaymentTo": "14081111124",
+		"PaymentAmount": "700",
+		"Kid/Message": "VISA 8702880 Nok 700 EIMEALT AS",
+		"Date ": "2016-05-10,13:38"
+	},
+	{
+		"PaymentId": "1550000092",
+		"TransactionId": "1050000092",
+		"PaymentType": "4",
+		"PaymentFrom": "12081115744",
+		"PaymentTo": "14081111131",
+		"PaymentAmount": "550",
+		"Kid/Message": "Master Card 6961075 Nok 550 Rema 1000",
+		"Date ": "2016-05-05,10:01"
+	},
+	{
+		"PaymentId": "1550000093",
+		"TransactionId": "1050000093",
+		"PaymentType": "4",
+		"PaymentFrom": "12081121957",
+		"PaymentTo": "14081111137",
+		"PaymentAmount": "400",
+		"Kid/Message": "Master Card 8736605 Nok 400 Colosseum Kiosk AS",
+		"Date ": "2016-02-07,11:45"
+	},
+	{
+		"PaymentId": "1550000094",
+		"TransactionId": "1050000094",
+		"PaymentType": "4",
+		"PaymentFrom": "12081124713",
+		"PaymentTo": "14081111136",
+		"PaymentAmount": "560",
+		"Kid/Message": "Master Card 2165461 Nok 560 COOP ØST SA",
+		"Date ": "2016-04-08,12:33"
+	},
+	{
+		"PaymentId": "1550000095",
+		"TransactionId": "1050000095",
+		"PaymentType": "4",
+		"PaymentFrom": "12081119859",
+		"PaymentTo": "14081111136",
+		"PaymentAmount": "530",
+		"Kid/Message": "VISA 5255118 Nok 530 COOP ØST SA",
+		"Date ": "2016-01-04,10:51"
+	},
+	{
+		"PaymentId": "1550000096",
+		"TransactionId": "1050000096",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113463",
+		"PaymentTo": "14081111127",
+		"PaymentAmount": "150",
+		"Kid/Message": "Master Card 8308272 Nok 150 FJELLESTAD LANDHANDLERI",
+		"Date ": "2016-01-06,13:11"
+	},
+	{
+		"PaymentId": "1550000097",
+		"TransactionId": "1050000097",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113177",
+		"PaymentTo": "14081111132",
+		"PaymentAmount": "130",
+		"Kid/Message": "Master Card 9391882 Nok 130 KAFFA AS",
+		"Date ": "2016-02-10,12:32"
+	},
+	{
+		"PaymentId": "1550000098",
+		"TransactionId": "1050000098",
+		"PaymentType": "4",
+		"PaymentFrom": "12081115494",
+		"PaymentTo": "14081111122",
+		"PaymentAmount": "790",
+		"Kid/Message": "Master Card 6166952 Nok 790 Chill Corporation",
+		"Date ": "2016-01-01,12:48"
+	},
+	{
+		"PaymentId": "1550000099",
+		"TransactionId": "1050000099",
+		"PaymentType": "4",
+		"PaymentFrom": "12081113197",
+		"PaymentTo": "14081111120",
+		"PaymentAmount": "440",
+		"Kid/Message": "VISA 2131777 Nok 440 COOP RØROS SA",
+		"Date ": "2016-05-06,12:02"
+	},
+	{
+		"PaymentId": "5122165513",
+		"TransactionId": "7522165513",
+		"PaymentType": "3",
+		"PaymentFrom": "12081123262",
+		"PaymentTo": "0",
+		"PaymentAmount": "900",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-04,09:24"
+	},
+	{
+		"PaymentId": "5122165514",
+		"TransactionId": "7522165514",
+		"PaymentType": "3",
+		"PaymentFrom": "12081123381",
+		"PaymentTo": "0",
+		"PaymentAmount": "900",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-04,12:48"
+	},
+	{
+		"PaymentId": "5122165515",
+		"TransactionId": "7522165515",
+		"PaymentType": "3",
+		"PaymentFrom": "12081123499",
+		"PaymentTo": "0",
+		"PaymentAmount": "900",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-07,11:20"
+	},
+	{
+		"PaymentId": "5122165516",
+		"TransactionId": "7522165516",
+		"PaymentType": "3",
+		"PaymentFrom": "12081123628",
+		"PaymentTo": "0",
+		"PaymentAmount": "900",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-08,09:29"
+	},
+	{
+		"PaymentId": "5122165517",
+		"TransactionId": "7522165517",
+		"PaymentType": "3",
+		"PaymentFrom": "12081123747",
+		"PaymentTo": "0",
+		"PaymentAmount": "900",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-04,13:10"
+	},
+	{
+		"PaymentId": "5122165518",
+		"TransactionId": "7522165518",
+		"PaymentType": "3",
+		"PaymentFrom": "12081123866",
+		"PaymentTo": "0",
+		"PaymentAmount": "500",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-07,09:10"
+	},
+	{
+		"PaymentId": "5122165519",
+		"TransactionId": "7522165519",
+		"PaymentType": "3",
+		"PaymentFrom": "12081123985",
+		"PaymentTo": "0",
+		"PaymentAmount": "500",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-04,12:31"
+	},
+	{
+		"PaymentId": "5122165521",
+		"TransactionId": "7522165521",
+		"PaymentType": "3",
+		"PaymentFrom": "12081124214",
+		"PaymentTo": "0",
+		"PaymentAmount": "500",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-04,11:48"
+	},
+	{
+		"PaymentId": "5122165522",
+		"TransactionId": "7522165522",
+		"PaymentType": "3",
+		"PaymentFrom": "12081124333",
+		"PaymentTo": "0",
+		"PaymentAmount": "500",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-07,11:49"
+	},
+	{
+		"PaymentId": "5122165523",
+		"TransactionId": "7522165523",
+		"PaymentType": "3",
+		"PaymentFrom": "12081124452",
+		"PaymentTo": "0",
+		"PaymentAmount": "500",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-05,09:37"
+	},
+	{
+		"PaymentId": "5122165524",
+		"TransactionId": "7522165524",
+		"PaymentType": "3",
+		"PaymentFrom": "12081124571",
+		"PaymentTo": "0",
+		"PaymentAmount": "500",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-08,08:01"
+	},
+	{
+		"PaymentId": "5122165525",
+		"TransactionId": "7522165525",
+		"PaymentType": "3",
+		"PaymentFrom": "12081124689",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-04,11:46"
+	},
+	{
+		"PaymentId": "5122165526",
+		"TransactionId": "7522165526",
+		"PaymentType": "3",
+		"PaymentFrom": "12081124818",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-08,08:47"
+	},
+	{
+		"PaymentId": "5122165527",
+		"TransactionId": "7522165527",
+		"PaymentType": "3",
+		"PaymentFrom": "14081111128",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51182Rodelokka ATM     Oslo  DNB Bank ASA",
+		"Date ": "2016-01-10,08:45"
+	},
+	{
+		"PaymentId": "5122165528",
+		"TransactionId": "7522165528",
+		"PaymentType": "3",
+		"PaymentFrom": "14081111247",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-01-05,09:58"
+	},
+	{
+		"PaymentId": "5122165529",
+		"TransactionId": "7522165529",
+		"PaymentType": "3",
+		"PaymentFrom": "14081111366",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-01-08,11:45"
+	},
+	{
+		"PaymentId": "5122165531",
+		"TransactionId": "7522165531",
+		"PaymentType": "3",
+		"PaymentFrom": "14081111485",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-01-06,10:17"
+	},
+	{
+		"PaymentId": "5122165532",
+		"TransactionId": "7522165532",
+		"PaymentType": "3",
+		"PaymentFrom": "14081111614",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-01-09,08:15"
+	},
+	{
+		"PaymentId": "5122165533",
+		"TransactionId": "7522165533",
+		"PaymentType": "3",
+		"PaymentFrom": "12081111226",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-01-02,09:57"
+	},
+	{
+		"PaymentId": "5122165534",
+		"TransactionId": "7522165534",
+		"PaymentType": "3",
+		"PaymentFrom": "12081111345",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-01-08,10:26"
+	},
+	{
+		"PaymentId": "5122165535",
+		"TransactionId": "7522165535",
+		"PaymentType": "3",
+		"PaymentFrom": "12081111464",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-01-04,13:15"
+	},
+	{
+		"PaymentId": "5122165536",
+		"TransactionId": "7522165536",
+		"PaymentType": "3",
+		"PaymentFrom": "12081111583",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-01-07,12:13"
+	},
+	{
+		"PaymentId": "5122165537",
+		"TransactionId": "7522165537",
+		"PaymentType": "3",
+		"PaymentFrom": "12081111712",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-01-02,10:11"
+	},
+	{
+		"PaymentId": "5122165538",
+		"TransactionId": "7522165538",
+		"PaymentType": "3",
+		"PaymentFrom": "12081111831",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-01-01,10:59"
+	},
+	{
+		"PaymentId": "5122165539",
+		"TransactionId": "7522165539",
+		"PaymentType": "3",
+		"PaymentFrom": "12081111949",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-01-08,11:42"
+	},
+	{
+		"PaymentId": "5122165541",
+		"TransactionId": "7522165541",
+		"PaymentType": "3",
+		"PaymentFrom": "12081112168",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-03-16,07:17"
+	},
+	{
+		"PaymentId": "5122165542",
+		"TransactionId": "7522165542",
+		"PaymentType": "3",
+		"PaymentFrom": "12081112287",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-08-02,16:52"
+	},
+	{
+		"PaymentId": "5122165543",
+		"TransactionId": "7522165543",
+		"PaymentType": "3",
+		"PaymentFrom": "12081112416",
+		"PaymentTo": "0",
+		"PaymentAmount": "1000",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-04-05,11:27"
+	},
+	{
+		"PaymentId": "5122165544",
+		"TransactionId": "7522165544",
+		"PaymentType": "3",
+		"PaymentFrom": "12081112535",
+		"PaymentTo": "0",
+		"PaymentAmount": "100",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-11-26,12:37"
+	},
+	{
+		"PaymentId": "5122165545",
+		"TransactionId": "7522165545",
+		"PaymentType": "3",
+		"PaymentFrom": "12081112654",
+		"PaymentTo": "0",
+		"PaymentAmount": "100",
+		"Kid/Message": "Uttak i Automat NOR51115   CC Vest Senter ATM",
+		"Date ": "2016-04-06,12:33"
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	},
+	{
+		"PaymentId": "",
+		"TransactionId": "",
+		"PaymentType": "",
+		"PaymentFrom": "",
+		"PaymentTo": "",
+		"PaymentAmount": "",
+		"Kid/Message": "",
+		"Date ": ""
+	}
+]

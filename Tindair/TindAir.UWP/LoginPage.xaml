@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="TindAir.UWP.LoginPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TindAir.UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <MediaElement Source="Assets/tindair.mp4" IsLooping="True" IsMuted="True" Stretch="UniformToFill" />
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition Height="200" />
+            </Grid.RowDefinitions>
+
+            <Grid Grid.RowSpan="2" Background="Black" Opacity="0.2"></Grid>
+            
+            <Grid>
+                <Image Source="Assets/SplashScreen.scale-200.png"></Image>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Button HorizontalAlignment="Center" Name="facebookLogin" BorderThickness="0" Foreground="White" FontWeight="Medium" FontSize="20" Background="#3b5998" Click="facebookLogin_Click" Padding="0">
+                    <Border BorderBrush="White" BorderThickness="0" CornerRadius="3" Padding="40,5">
+
+                        <TextBlock>Login with Facebook</TextBlock>
+                    </Border>
+
+                </Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>
