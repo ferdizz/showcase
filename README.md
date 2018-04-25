@@ -1,5 +1,3 @@
-# showcase
-
 This repo contains the project files from the different hackathons I've participated in. As the original repos are private, I've gathered them all here as a little showcase for what was done.
 
 ## Disclaimer
